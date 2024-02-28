@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>AI Chat</title>
+</head>
+<body onload="Pre()">
+    <script type="text/javascript">
+        function Pre(){
+            document.getElementById("main").style.display="none"
+        
+            setTimeout(()=>{
+        document.getElementById("preload").style.display="none";
+        document.getElementById("main").style.display="block";
+
+            },7000)
+        }
+    </script>
+<div class="preload" id="preload">
+    <p>AI <span>Chat</span></p>
+<center>
+    <hr>
+</center>
+</div>
+
+
+<div class="main" id="main">
+        <div class="header">
+            <center>
+                <a>AI Chat</a>
+                <a href="help.html" style="position: absolute;right: 50px;">Help</a>
+            </center>
+        </div>
+        <br>
+        <br>
+        <br>
+
+    <div id="doc">
+        <div class="ai-message">
+            <p style="color:white">Hi, ask me any question or type an abbreviation in capitals. I'm ready to answer. If you need help type "I need help".</p>
+        </div>
+        <br/>
+    </div>
+
+<br>
+<br>
+<br>
+
+<div class="userinput">
+        <input type="text" name="user" placeholder="Type here" id="userinput">
+        <label for="img">i</label>
+         <input type="file" id="img" class="imgU" accept="image" onchange="imgUpload(); document.getElementById('userinput').value='';">
+        <button class="send" onclick="mySend(); document.getElementById('userinput').value='';">Send</button>
+    </div>
+
+
+    <script src="script.js"></script>
+</div>
+</body>
+</html>

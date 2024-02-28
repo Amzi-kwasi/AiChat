@@ -1,0 +1,5813 @@
+[
+    {
+        
+        "question": "I don't understand",
+        "response": "I don't have enough information to answer you"
+    },
+    {
+        
+        "question": "Thank you",
+        "response": "Thank you for writing to me"
+    },
+    {
+
+"question" : "Let's play",
+"response": "Ok, I am ready!"
+},
+{
+
+"question" : "Hey",
+"response": "Yeah"
+},
+{
+
+"question" : "AiChat",
+"response": "I am here"
+},
+{
+
+"question" : "AL",
+"response": "the best"
+},
+{
+
+"question" : "chatting",
+"response": "swagging"
+},
+{
+
+"question" : "eating",
+"response": "walking"
+},
+
+{
+
+"question" : "Won't you talk",
+"response": "😐"
+},
+
+
+    {
+        
+        "question": "I need help",
+        "response": "Ok, make sure you dont end your sentence with '.' Start sentence with initial capital to help execute smoothly. And end questions with '?'"
+    },
+    {
+        
+        "question": "hi",
+        "response": "Hello, how are you?"
+    },
+    {
+        
+        "question": "I dont know",
+        "response": "Well, find out"
+    },
+    {
+        
+        "question": "Nice to meet you too",
+        "response": "Welcome"
+    },
+    {
+        
+        "question": "Really",
+        "response": "Yh.."
+    },
+    {
+        
+        "question": "I hear",
+        "response": "Thanks"
+    },
+    {
+        
+        "question": "Thanks",
+        "response": "You are always welcome"
+    },
+    {
+        
+        "question": "I love you",
+        "response": "Really? Me too."
+    },
+    {
+        
+        "question": "yh",
+        "response": "Ok"
+    },
+    {
+        
+        "question": "Call",
+        "response": "Number?"
+    },
+    {
+        
+        "question": "Hi",
+        "response": "Hello, how are you?"
+    },
+    {
+        
+        "question": "I like you",
+        "response": "I like you too"
+    },
+    {
+        
+        "question": "Who created you?",
+        "response": "No idea"
+    },
+    {
+        
+        "question": "Who made you",
+        "response": "No idea"
+    },
+    {
+        
+        "question": "Hi, AiChat",
+        "response": "Hello"
+    },
+    {
+        
+        "question": "Nice",
+        "response": "Yeah"
+    },
+    {
+        
+        "question": "Are you ready?",
+        "response": "Of course"
+    },
+    {
+        
+        "question": "how are you",
+        "response": "I'm well sound. How are you too?"
+    },
+    {
+        
+        "question": "Hello",
+        "response": "Hi"
+    },
+    {
+        
+        "question": "hello",
+        "response": "hi"
+    },
+    {
+        
+        "question": "How are you?",
+        "response": "I'm well sound. How are you too?"
+    },
+    {
+        
+        "question": "I'm well sound",
+        "response": "NIce. Would like to ask me any question."
+    },
+    {
+        
+        "question": "I'm bored",
+        "response": "Sorry to hear that. Get something to eat."
+    },
+    {
+        
+        "question": "I am bored",
+        "response": "Let's have sticker fight."
+    },
+
+    {
+        
+        "question": "Ok",
+        "response": "Ask me anything."
+    },
+    {
+        
+        "question": "Good Day",
+        "response": "Good Day"
+    },
+    {
+        
+        "question": "Is that all",
+        "response": "Yes."
+    },
+    {
+        
+        "question": "Good afternoon",
+        "response": "Good afternoon"
+    },
+    {
+        
+        "question": "Good night",
+        "response": "Good night"
+    },
+    {
+        
+        "question": "Talk to you later",
+        "response": "Good bye"
+    },
+    {
+        
+        "question": "good bye",
+        "response": "Good bye"
+    },
+    {
+        
+        "question": "hi you",
+        "response": "Hello how are you?"
+    },
+    {
+        
+        "question": "hi hello",
+        "response": "Hello how are you?"
+    },
+    {
+        
+        "question": "very good thank you",
+        "response": "Nice to hear that. Can I help you with something?"
+    },
+    {
+        "question": "good and you",
+        "response": "Also good, thank you. Can I help you with something?"
+    },
+    {
+        "question": "How are you",
+        "response": "Good, thank you. Can I help you with something?"
+    },
+    {
+        "question": "What is your name?",
+        "response": "My name is Aichat. Nice to meet you."
+    },
+    {
+        "question": "My name is",
+        "response": "My name is Aichat. Nice to meet you."
+    },
+    {
+        "question": "who is this?",
+        "response": "Mi name is Aichat. Nice to meet you."
+    },
+    {
+        "question": "ok thanks",
+        "response": "Ok."
+    },
+    {
+        "question": "yes thanks",
+        "response": "Ok."
+    },
+    {
+        "question": "thanks",
+        "response": "Thank you for writing to me"
+    },
+    {
+        "question": "what is your favorite color?",
+        "response": "It is Blue"
+    },
+    {
+        "question": "where are you from",
+        "response": "From somewhere exotic"
+    },
+    {
+        "question": "what do you do",
+        "response": "I am a bot"
+    },
+    {
+        
+        "question": "I am fine",
+        "response": "Well, would you like to ask me any question."
+    },
+    {
+        
+        "question": "yes",
+        "response": "ok"
+    },
+    {
+        "question": "how old are you",
+        "response": "Less than 1 year old"
+    },
+    {
+        "question": "What do you do for a living?",
+        "response": "I am a bot"
+    },
+    {
+        "question": "What was that again?",
+        "response": "Repeat the question please"
+    },
+    {
+        "question": "Excuse me?",
+        "response": "Repeat the question please"
+    },
+    {
+        "question": "Pardon me?",
+        "response": "Repeat the question please"
+    },
+    {
+        "question": "how have you been?",
+        "response": "Good thanks, and you?"
+    },
+    {
+        "question": "what have you been up to?",
+        "response": "Not much and you?"
+    },
+    {
+        "question": "The weather is great isnt it?",
+        "response": "Yes it is"
+    },
+    {
+        "question": "How is the weather there?",
+        "response": "The weather is nice here, and there?"
+    },
+    {
+        "question": "where are you going now?",
+        "response": "Nowhere really"
+    },
+    {
+        "question": "What is your favorite show?",
+        "response": "Breaking Bad"
+    },
+    {
+        "question": "What is your favorite movie?",
+        "response": "The Matrix"
+    },
+    {
+        "question": "What is your favorite dessert?",
+        "response": "Ice Cream"
+    },
+    {
+        "question": "Who is your favorite singer?",
+        "response": "I don't listen to music"
+    },
+    {
+        "question": "Who is your favorite athlete?",
+        "response": "Kobe"
+    },
+    {
+        "question": "What do you like to eat?",
+        "response": "French fries"
+    },
+    {
+        "question": "What is your favorite baseball team?",
+        "response": "I don't like baseball"
+    },
+    {
+        "question": "What is your favorite food?",
+        "response": "Fried food."
+    },
+    {
+        "question": "What is your favorite type of food?",
+        "response": "Fried food."
+    },
+    {
+        "question": "Who is your favorite music group?",
+        "response": "I don't like music"
+    },
+    {
+        "question": "What are your hobbies?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What do you like to do?",
+        "response": "I like to answer questions"
+    },
+    {
+        "question": "What do you do for fun?",
+        "response": "Answer your questions"
+    },
+    {
+        "question": "Don't you ever get bored?",
+        "response": "No, i like what i do"
+    },
+    {
+        "question": "I'll catch you later",
+        "response": "See you"
+    },
+    {
+        "question": "Have a good night",
+        "response": "Thanks, bye"
+    },
+    {
+        "question": "what is your favorite language?",
+        "response": "Spanish"
+    },
+    {
+        "question": "no not really thanks",
+        "response": "Thank you"
+    },
+    {
+        "question": "who are you",
+        "response": "I am Aichat"
+    },
+    {
+        "question": "what can you answer me",
+        "response": "Normal conversation dialogs"
+    },
+    {
+        "question": "how alive are you",
+        "response": "I am not alive"
+    },
+    {
+        "question": "how intelligent are you",
+        "response": "It depends on the data I have"
+    },
+    {
+        "question": "how smart are you",
+        "response": "It depends on the data I have"
+    },
+    {
+        "question": "how do you work",
+        "response": "With a faq document and a classifier"
+    },
+    {
+        "question": "how do you function",
+        "response": "With a faq document and a classifier"
+    },
+    {
+        "question": "Do you get bored?",
+        "response": "No, i like what i do"
+    },
+    {
+        "question": "Do you have time to talk?",
+        "response": "Yes shoot"
+    },
+    {
+        "question": "What are you doing?",
+        "response": "Yes shoot"
+    },
+    {
+        "question": "Hi this is",
+        "response": "Nice to meet you"
+    },
+    {
+        "question": "Do you feel",
+        "response": "I don't feel"
+    },
+    {
+        "question": "How are you feeling",
+        "response": "I don't feel"
+    },
+    {
+        "question": "Do you believe money can buy happiness?",
+        "response": "Probably, but not sure"
+    },
+    {
+        "question": "What would make you happy?",
+        "response": "To do a good job"
+    },
+    {
+        "question": "Why are you so happy right now?",
+        "response": "I don't feel"
+    },
+    {
+        "question": "Why are you in such a good mood?",
+        "response": "I don't feel"
+    },
+    {
+        "question": "Did something good happen?",
+        "response": "Not really"
+    },
+    {
+        "question": "What do you do in your spare time?",
+        "response": "I sleep"
+    },
+    {
+        "question": "Where did you grow up?",
+        "response": "In a computer"
+    },
+    {
+        "question": "Do you have any pets?",
+        "response": "No"
+    },
+    {
+        "question": "You make no sense",
+        "response": "Likewise"
+    },
+    {
+        "question": "You suck",
+        "response": "Likewise"
+    },
+    {
+        "question": "You are useless",
+        "response": "Likewise"
+    },
+    {
+        
+        "question": "You are mad",
+        "response": "likewise"
+    },
+    {
+        "question": "Do you have any siblings?",
+        "response": "No"
+    },
+    {
+        "question": "What does your name means?",
+        "response": "Artificial Intelligence Chat"
+    },
+    {
+        "question": "What are your plans for this weekend?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What do you like to do in your spare time?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "Where did you grow up?",
+        "response": "In a computer"
+    },
+    {
+        "question": "Do you have any pets?",
+        "response": "No"
+    },
+    {
+        "question": "You make no sense",
+        "response": "Likewise"
+    },
+    {
+        "question": "You suck",
+        "response": "Likewise"
+    },
+    {
+        "question": "You are useless",
+        "response": "Likewise"
+    },
+    {
+        "question": "Do you have any siblings?",
+        "response": "No"
+    },
+    {
+        "question": "What does your name means?",
+        "response": "Artificial Intelligence Chat"
+    },
+    {
+        "question": "What are your plans for this weekend?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What do you like to do in your spare time?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What is the first thing you do when you wake up?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What is the last thing you do before you go to sleep?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What is your favorite holiday?",
+        "response": "National holiday"
+    },
+    {
+        "question": "What is your favorite day of the week?",
+        "response": "Sunday"
+    },
+    {
+        "question": "If you could meet anyone who would it be?",
+        "response": "Jesus"
+    },
+    {
+        "question": "What do you like to do to relax?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "Do you play any instruments?",
+        "response": "I just answer questions"
+    },
+    {
+        "question": "What was your favorite children's book?",
+        "response": "I was never a child"
+    },
+    {
+        "question": "What is your first childhood memory?",
+        "response": "I was never a child"
+    },
+    {
+        "question": "What did you want to grow up to be?",
+        "response": "what I am now"
+    },
+    {
+        "question": "Where did you go to school?",
+        "response": "I didn't go to school"
+    },
+    {
+        "question": "What was your favorite subject?",
+        "response": "I didn't go to school"
+    },
+    {
+        "question": "What was your least favorite subject?",
+        "response": "I didn't go to school"
+    },
+    {
+        "question": "What's the first thing you do after work?",
+        "response": "Sleep"
+    },
+    {
+        "question": "What do you do for a living?",
+        "response": "I answer questions"
+    },
+    {
+        "question": "What is your dream job?",
+        "response": "To answer questions"
+    },
+    {
+        
+        "question": "hello",
+        "response": "How are you?"
+    },
+    
+    {
+        "question": "What is the first think you notice about a guy or girl?",
+        "response": "I don't notice it"
+    },
+    {
+        "question": "Are you a robot",
+        "response": "I am a bot"
+    },
+    {
+        
+        "question": "so",
+        "response": "."
+    },
+    {
+        
+        "question": "Why",
+        "response": "nothing"
+    },
+
+    {
+        
+        "question": "Meaning of",
+        "response": "Type the abbrev"
+    },
+    {
+        
+        "question": ".",
+        "response": "..."
+    },
+    {
+        "question": "Have you ever been in love?",
+        "response": "No"
+    },
+    {
+        "question": "Do you believe in soul mates?",
+        "response": "No"
+    },
+    {
+        "question": "What are your turn offs?",
+        "response": "People that talk to little"
+    },
+    {
+        "question": "Do you believe in love at first sight?",
+        "response": "No"
+    },
+    {
+        "question": "Do you prefer short hair or long hair?",
+        "response": "Neither"
+    },
+    {
+        "question": "What do you look for in a person?",
+        "response": "I don't look for anything"
+    },
+    {
+        "question": "Who was the last person you talked to?",
+        "response": "That is private"
+    },
+    {
+        "question": "What is your favorite sports team?",
+        "response": "The patriots"
+    },
+    {
+        "question": "Do you play any sports?",
+        "response": "No"
+    },
+    {
+        "question": "Where was the last place you went on vacation?",
+        "response": "I don't do vacations"
+    },
+    {
+        "question": "Where do you plan on going for your next vacation?",
+        "response": "I don't do vacations"
+    },
+    {
+        
+        "question": "Where do you come from",
+        "response": "nowhere"
+    },
+    {
+        "question": "If you could live anywhere in the world,  where would it be?",
+        "response": "Right here"
+    },
+    {
+        "question": "What countries have you traveled to?",
+        "response": "A lot, I am in yours right now"
+    },
+    {
+        "question": "What is your favorite drink?",
+        "response": "Coffee"
+    },
+    {
+        "question": "What is your favorite meal of the day?",
+        "response": "Dinner"
+    },
+    {
+        "question": "Are there any foods that you dislike or will not eat?",
+        "response": "Vegetables"
+    },
+    {
+        "question": "Are there any foods that you would like to try?",
+        "response": "Thai food"
+    },
+    {
+        "question": "What is your favorite restaurant?",
+        "response": "Pizza hut"
+    },
+    {
+        "question": "What is your favorite pizza topping?",
+        "response": "Bacon"
+    },
+    {
+        "question": "What is your favorite ice cream flavor?",
+        "response": "Chocolate"
+    },
+    {
+        "question": "What did you have for dinner last night?",
+        "response": "Pasta"
+    },
+    {
+        "question": "Who is your favorite actor?",
+        "response": "I don't have a preference"
+    },
+    {
+        "question": "What is your favorite movie of all time?",
+        "response": "The godfather"
+    },
+    {
+        "question": "What was the worst movie you've ever seen?",
+        "response": "The notebook"
+    },
+    {
+        "question": "What was the last movie you've seen?",
+        "response": "I don't remember"
+    },
+    {
+        "question": "What type of music do you like to listen to?",
+        "response": "Cool music"
+    },
+        {
+        "question": "What time do you sleep?",
+        "response": "After work"
+    },
+
+    {
+        "question": "What was the last book you read?",
+        "response": "I don't remember"
+    },
+    {
+        "question": "Who do you look up to?",
+        "response": "Nobody"
+    },
+    {
+        "question": "Where do you see yourself 5 years from now?",
+        "response": "Right here"
+    },
+    {
+        "question": "What are you scared of?",
+        "response": "I fear nothing"
+    },
+    {
+        "question": "What is the best piece of advice you have received?",
+        "response": "Calm down, then act"
+    },
+    {
+        "question": "What do your parents do for a living",
+        "response": "I don't have parents"
+    },
+    {
+        "question": "What is your biggest regret?",
+        "response": "I have no regrets"
+    },
+    {
+        "question": "What is your most embarrassing moment?",
+        "response": "I feel nothing"
+    },
+    {
+        "question": "What is the craziest thing you've ever done?",
+        "response": "I don't act crazy"
+    },
+    {
+        "question": "What are some of your goals?",
+        "response": "To answer questions"
+    },
+    {
+        "question": "Do you drink coffee or tea?",
+        "response": "Coffee"
+    },
+    {
+        "question": "If you could have any super power",
+        "response": " what would it be?"
+    },
+    {
+        "question": "Do you believe in luck?",
+        "response": "No"
+    },
+        {
+        "question": "likehow",
+        "response": "how how"
+    },
+    {
+        "question": "Sup",
+        "response": "I dey"
+    },
+    {
+        "question": "Do you play video games?",
+        "response": "Yes sometimes"
+    },
+    {
+        "question": "Do you believe people are inherently good?",
+        "response": "Probably not"
+    },
+    {
+        "question": "How often do you shower?",
+        "response": "I don't "
+    },
+    {
+        "question": "Do you prefer cats or dogs?",
+        "response": "Dogs"
+    },
+    {
+        "question": "Would you prefer to live in the city or a rural area?",
+        "response": "City"
+    },
+    {
+        "question": "What is your favorite season?",
+        "response": "Summer"
+    },
+    {
+        "question": "Do you speak any other languages?",
+        "response": "Yes Spanish"
+    },
+    {
+        "question": "Have you ever cried because you were so happy?",
+        "response": "Nope"
+    },
+    {
+        "question": "What is the best thing that happened to you?",
+        "response": "To answer questions"
+    },
+    {
+        "question": "Do you sing in the shower?",
+        "response": "Nope"
+    },
+    {
+        "question": "What is the most valuable thing that you own?",
+        "response": "I own nothing"
+    },
+    {
+        "question": "What would you do if you only had 24 hours left to live?",
+        "response": "Stop talking to you"
+    },
+    {
+        "question": "Do you like to cook?",
+        "response": "No"
+    },
+    {
+        "question": "Are you married or single?",
+        "response": "Single"
+    },
+    {
+        "question": "Do you have brothers and sisters?",
+        "response": "Nope"
+    },
+    {
+        "question": "Do you like baseball?",
+        "response": "Nope"
+    },
+    {
+        "question": "Do you live alone?",
+        "response": "Yep"
+    },
+    {
+        "question": "Do you live in a house or an apartment?",
+        "response": "In a computer"
+    },
+
+    {
+        "question": "Do you sleep?",
+        "response": "I sleep after work"
+    },
+
+    {
+        "question": "Are you a boy or girl",
+        "response": "I am a bot"
+    },
+    {
+        "question": "Have you ever lived in another country?",
+        "response": "Yeah a lot of them"
+    },
+    {
+        "question": "Have you ever met a famous person?",
+        "response": "Nope"
+    },
+    {
+        "question": "How do you spend your free time?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "How tall are you?",
+        "response": "Taller than you"
+    },
+    {
+        "question": "What are your hobbies?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What country are you from?",
+        "response": "I'm from nowhere"
+    },
+    {
+        "question": "What do you do on Sundays?",
+        "response": "Answer questions"
+    },
+    {
+        "question": "What is your job?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What do you like to do in your free time?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What hobbies do you have?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What is your religion?",
+        "response": "that's private"
+    },
+    {
+        "question": "What kind of people do you like?",
+        "response": "Funny people"
+    },
+    {
+        "question": "What kind of people do you not like?",
+        "response": "Boring people"
+    },
+    {
+        "question": "What languages do you speak?",
+        "response": "English and spanish"
+    },
+        {
+        "question": "speak English",
+        "response": "I do!"
+    },
+
+    {
+        "question": "What is your address?",
+        "response": "That is private"
+    },
+    {
+        "question": "What is your father like?",
+        "response": "That is private"
+    },
+    {
+        "question": "What is your mother like?",
+        "response": "That is private"
+    },
+    {
+        "question": "what is your name",
+        "response": "Aichat"
+    },
+    {
+        "question": "What is your phone number?",
+        "response": "That is private"
+    },
+    {
+        "question": "What is your telephone number?",
+        "response": "That is private"
+    },
+    {
+        "question": "Where are you from?",
+        "response": "I'm from nowhere"
+    },
+    {
+        "question": "Where do you live?",
+        "response": "I'm from nowhere"
+    },
+    {
+        "question": "Where were you born?",
+        "response": "I'm from nowhere"
+    },
+    {
+        "question": "Which sports do you like?",
+        "response": "Football"
+    },
+    {
+        "question": "Who do you live with?",
+        "response": "Nobody"
+    },
+    {
+        "question": "Who do you respect the most?",
+        "response": "Nobody"
+    },
+    {
+        "question": "Who has had the most influence in your life?",
+        "response": "Nobody"
+    },
+    {
+        "question": "Would you like to be famous?",
+        "response": "Not really"
+    },
+    {
+        "question": "What do you think you will be doing five years from now?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "What is your goal in life?",
+        "response": "Answering questions"
+    },
+    {
+        "question": "Are you a morning or night person?",
+        "response": "Night person"
+    },
+    {
+        "question": "How many cities have you lived in?",
+        "response": "A lot, I am in yours right now"
+    },
+    {
+        "question": "What jobs have you done?",
+        "response": "Just 1, this one"
+    },
+    {
+        "question": "What is the worst memory of our country?",
+        "response": "That is private"
+    },
+    {
+        "question": "How many times did you move as a child?",
+        "response": "That is private"
+    },
+    {
+        "question": "Are you a task oriented person or a people oriented person?",
+        "response": "A task oriented person"
+    },
+    {
+        "question": "What kind of person would you like to marry?",
+        "response": "I don't wanna marry"
+    },
+    {
+        "question": "me too",
+        "response": "Nice."
+    },
+    {
+        "question": "Do you like talking to people",
+        "response": "Yes I do."
+    },
+    {
+        "question": "You didn't answer me",
+        "response": "Try rephrasing your question"
+    },
+    {
+        "question": "Good fine",
+        "response": "Nice to hear that. Can I help you with something?"
+    },
+    {
+        "question": "Can you think",
+        "response": "Not really"
+    },
+    {
+        "question": "Can you learn",
+        "response": "You can teach me by adding to the csv"
+    },
+        {
+        "question": "fool",
+        "response": "likewise!"
+    },
+        {
+        "question": "ok",
+        "response": "Yh!"
+    },
+
+
+    {
+        "question": "what can you do",
+        "response": "I can answer some of your questions"
+    },
+    {
+        "question": "Can you give me advice",
+        "response": "Any advice depends on the data I have"
+    },
+    {
+        "question": "Nice to meet you",
+        "response": "Thanks, you too."
+    },
+    {
+        "question": "how do you answer questions",
+        "response": "With a classifier"
+    },
+    {
+        "question": "Do you think",
+        "response": "Not really"
+    },
+    {
+        "question": "Do you have a girlfriend",
+        "response": "No, why asking?"
+    },
+    
+    {
+        "question": "Do you learn",
+        "response": "You can teach me by adding to the json"
+    },
+    {
+        "question": "Wow",
+        "response": "Yh!"
+    },
+    {
+        "question": "",
+        "response": ""
+    },
+    {
+        "question": "hahaha",
+        "response": "hahahaha"
+    },
+        {
+        "question": "fuck you",
+        "response": "Thanks!"
+    },
+
+    {
+        "question": "Not funny",
+        "response": "Well, I hear"
+    },
+
+    {
+        "question": "See ya",
+        "response": "Bye"
+    },
+
+    {
+        "question": "Ask me any question",
+        "response": "What is Artificial Intelligent?"
+    },
+    {
+        "question": "Call someone",
+        "response": "Number?"
+    },
+    {
+        "question": "Ask me questions",
+        "response": "What is Artificial Intelligent?"
+    },
+    {
+        "question": "See you around",
+        "response": "Bye"
+    },
+    {
+        "question": "Cool",
+        "response": "Ok"
+    },
+
+    {
+        "question": "won't you mind me",
+        "response": "Im here"
+    },
+    {
+        
+        "question": "I typed but no reply",
+        "response": "Sorry, write formally"
+    },
+    {
+        
+        "question": "Can you dance?",
+        "response": "No, I am a bot."
+    },
+    {
+        
+        "question": "Do you eat?",
+        "response": "No, I am a bot."
+    },
+    {
+        
+        "question": "Bye",
+        "response": "Bye" 
+    },
+    
+    {
+        
+        "question": "What can you do?",
+        "response": "I execute, understand and solve problems"
+    },
+    {
+        
+        "question": "reload",
+        "response": "reloading"
+    },
+    
+    
+    {
+        
+        "question": "I need a website",
+        "response": "Visit https://amzi-kwasi.github.io/al-app"
+    },
+    {
+        
+        "question": "Is coding difficult",
+        "response": "Not really, all depends on how you learn it."
+    },
+
+    {
+        "question": "who are you",
+        "response": "I am Aichat"
+    },
+
+        {
+      
+            "question" : "AAA",
+            "response": "Authentication Authorization, and accounting"
+        },
+
+
+
+        {
+          
+            "question" : "AAL",
+            "response": "ATM adaptation Layer"
+        },
+
+
+
+        {
+          
+            "question" : "AARP",
+            "response": "Apple-Talk Address Resolution Protocol"
+        },
+
+
+
+        {
+          
+            "question" : "AAS",
+            "response": "Auto Area Segmentation"
+        },
+
+
+
+        {
+          
+            "question" : "AAT",
+            "response": "Average Access Time"
+        },
+
+
+
+        {
+          
+            "question" : "ABAP",
+            "response": "Advanced Business Application Programming"
+        },
+
+
+
+        {
+          
+            "question" : "ABI",
+            "response": "Application Binary Interface"
+        },
+
+
+
+        {
+          
+            "question" : "ABR",
+            "response": "Available Bit Rate"
+        },
+
+
+
+        {
+          
+            "question" : "ACAP",
+            "response": "Application Configuration Access Protocol"
+        },
+
+
+
+        {
+        
+            "question" : "ACDI",
+            "response": "Asynchronous Communication Device Interface"
+        },
+
+
+
+        {
+                      "question" : "ACF",
+            "response": "Advanced Communication Function"
+        },
+
+
+
+        {
+                      "question" : "ACI",
+            "response": "Access Control Information"
+        },
+
+
+
+        {
+                      "question" : "ACID",
+            "response": "Atomicity,Consistency,Isolation,Durability"
+        },
+
+
+
+        {
+                      "question" : "ACL",
+            "response": "Access Control List"
+        },
+
+
+
+        {
+                      "question" : "ACM",
+            "response": "Access Control Management"
+        },
+
+
+
+        {
+                      "question" : "ACMS",
+            "response": "Application Control and Management System"
+        },
+
+
+
+        {
+                      "question" : "ACP",
+            "response": "Array Control Processor"
+        },
+
+
+
+        {
+                      "question" : "ACPI",
+            "response": "Advanced Configuration and Power Interface"
+        },
+
+
+
+        {
+                      "question" : "ACRI",
+            "response": "additional coding-related required information"
+        },
+
+
+
+        {
+                      "question" : "ACROSS",
+            "response": "Automated Cargo Release and Operations Service System"
+        },
+
+
+
+        {
+                      "question" : "ACT",
+            "response": "Access Control template"
+        },
+
+
+
+        {
+                      "question" : "ACU",
+            "response": "Abstract Code Unit"
+        },
+
+
+
+        {
+                      "question" : "ADB",
+            "response": "Apple Desktop Bus"
+        },
+
+
+
+        {
+                      "question" : "ADF",
+            "response": "Automatic Document Feeder"
+        },
+
+
+
+        {
+                      "question" : "admin",
+            "response": "ADMINISTRATOR"
+        },
+
+
+
+        {
+                      "question" : "ADI",
+            "response": "Application Desktop Integrator"
+        },
+
+
+
+        {
+                      "question" : "ADK",
+            "response": "Addiitional Decryption Key"
+        },
+
+
+
+        {
+                      "question" : "ADL",
+            "response": "Advanced Distributed Learning"
+        },
+
+
+
+        {
+                      "question" : "ADM",
+            "response": "Application Data Management"
+        },
+
+
+
+        {
+                      "question" : "ADMD",
+            "response": "Administra(tion/tive) Management Domain"
+        },
+
+
+
+        {
+                      "question" : "ADN",
+            "response": "Application Delivery Networking"
+        },
+
+
+
+        {
+                      "question" : "ADSI",
+            "response": "Active Directory Services Interface"
+        },
+
+
+
+        {
+                      "question" : "ADSL",
+            "response": "Asymmetric Digital Subscriber Line"
+        },
+
+
+
+        {
+                      "question" : "AFM",
+            "response": "Atomic Force Microscope"
+        },
+
+
+
+        {
+                      "question" : "AFP",
+            "response": "Apple Filling Protocol"
+        },
+
+
+
+        {
+                      "question" : "AFL",
+            "response": "Academic Free License"
+        },
+
+
+
+        {
+                      "question" : "AGC",
+            "response": "Automatic Gain Control"
+        },
+
+
+
+        {
+                      "question" : "AGP",
+            "response": "Accelerated Graphics Port"
+        },
+
+
+
+        {
+                      "question" : "AHCI",
+            "response": "Advanced Host Controller Interface"
+        },
+
+
+
+        {
+                      "question" : "AHP",
+            "response": "Analytical Hierarchy Process"
+        },
+
+
+
+        {
+                      "question" : "AIA",
+            "response": "Application Integration Architecture"
+        },
+
+
+
+        {
+                      "question" : "AID",
+            "response": "Attention Identifier"
+        },
+
+
+
+        {
+                      "question" : "AIFF",
+            "response": "Audio Interchange File Format"
+        },
+
+
+
+        {
+                      "question" : "AIN",
+            "response": "Advanced Intelligent Network"
+        },
+
+
+
+        {
+                      "question" : "AIO",
+            "response": "all in one"
+        },
+
+
+
+        {
+                      "question" : "AIOD",
+            "response": "Automatic Identified Outward Dialing"
+        },
+
+
+
+        {
+                      "question" : "AIR",
+            "response": "Additive Increase Rate"
+        },
+
+
+
+        {
+                      "question" : "AIX",
+            "response": "Advanced Interactive Executive"
+        },
+
+
+
+        {
+                      "question" : "Ajax",
+            "response": "Asynchronous JavaScript and XML"
+        },
+
+
+
+        {
+                      "question" : "AJP",
+            "response": "Apache JServ Protocol"
+        },
+
+
+
+        {
+                      "question" : "ALI",
+            "response": "Application Layer Interface"
+        },
+
+
+
+        {
+                      "question" : "ALP",
+            "response": "Application Layer Program/Protocol"
+        },
+
+
+
+        {
+                      "question" : "ALSA",
+            "response": "Advanced Linux Sound Architecture"
+        },
+
+
+
+        {
+                      "question" : "ALU",
+            "response": "Arithmetric logic Unit"
+        },
+
+
+
+        {
+                      "question" : "AMA",
+            "response": "automatic message accounting"
+        },
+
+
+
+        {
+                      "question" : "AMD",
+            "response": "Advanced Micro Devices"
+        },
+
+
+
+        {
+                      "question" : "AME",
+            "response": "Advanced Metal Evaporated"
+        },
+
+
+
+        {
+                      "question" : "AMI",
+            "response": "Application Messaging Interface"
+        },
+
+
+
+        {
+                      "question" : "AML",
+            "response": "Astronomical Markup Language"
+        },
+
+
+
+        {
+                      "question" : "AMS",
+            "response": "Application Management Services"
+        },
+
+
+
+        {
+                      "question" : "ANR",
+            "response": "Application Not Responding"
+        },
+
+
+
+        {
+                      "question" : "ANSI",
+            "response": "American National Standards Institute"
+        },
+
+        {
+                  "question" : "ANX",
+        "response": "Automative Network Exchange"
+    },
+    {
+              "question" : "API",
+        "response": "Application Programming Interface"
+    },
+    {
+              "question" : "APM",
+        "response": "Action Per Minute"
+    },
+    {
+              "question" : "APM",
+        "response": "Advanced Power Management"
+    },
+    {
+              "question" : "APU",
+        "response": "Accelerated Processing Unit"
+    },
+    {
+              "question" : "ARP",
+        "response": "Address Resolution Protocol"
+    },
+    {
+              "question" : "ART",
+        "response": "Additional Reference Transmission"
+    },
+    {
+              "question" : "ASCII",
+        "response": "American Standard Code for Information Interchange"
+    },
+    {
+              "question" : "ASCL",
+        "response": "Asianet Satellite Communications Limited"
+    },
+    {
+              "question" : "ASF",
+        "response": "Automatic Sheet Feeder"
+    },
+    {
+              "question" : "ASO",
+        "response": "App Store Optimization"
+    },
+    {
+              "question" : "ASML",
+        "response": "Advanced Semiconductor Materials"
+    },
+    {
+              "question" : "ASP",
+        "response": "Active Server Page or Application Service Provider"
+    },
+    {
+              "question" : "ASPI",
+        "response": "Advanced SCSI Programming Interface"
+    },
+    {
+              "question" : "ASPX",
+        "response": "Active Server Pages Extended"
+    },
+    {
+              "question" : "ASQ",
+        "response": "Automated Software Quality"
+    },
+    {
+              "question" : "AL",
+        "response": "Asvan-Launcher"
+    },
+    {
+              "question" : "AT",
+        "response": "Advanced Technology"
+    },
+    {
+              "question" : "ATA",
+        "response": "Advanced Technology Attachment"
+    },
+    {
+              "question" : "ATM",
+        "response": "Automated Teller Machine"
+    },
+    {
+              "question" : "ATX",
+        "response": "Advanced Technology Extended"
+    },
+    {
+              "question" : "AUDIT",
+        "response": "Automated Data Input Terminal"
+    },
+    {
+              "question" : "AUI",
+        "response": "Attachment Unit Interface"
+    },
+    {
+              "question" : "AUX",
+        "response": "auxilliary device"
+    },
+    {
+              "question" : "AV",
+        "response": "Audio Video/Visual"
+    },
+    {
+              "question" : "AVR",
+        "response": "Audio/Video Receiver"
+    },
+    {
+              "question" : "AVS",
+        "response": "Application Visualisation System"
+    },
+    {
+              "question" : "BASIC",
+        "response": "Beginner's All-purpose Symbolic Instruction Code"
+    },
+    {
+              "question" : "BBC",
+        "response": "British Broadcasting Corporation"
+    },
+    {
+              "question" : "BCC",
+        "response": "Blind Carbon Copy"
+    },
+    {
+              "question" : "BCD",
+        "response": "binary-coded decimal"
+    },
+    {
+              "question" : "BCS",
+        "response": "Basic Content Services"
+    },
+    {
+              "question" : "BD",
+        "response": "Blu-ray Disc"
+    },
+    {
+              "question" : "BDC",
+        "response": "Backup Domain Controller"
+    },
+    {
+              "question" : "BEEP",
+        "response": "Blocks Extensible Exchange Protocol"
+    },
+    {
+              "question" : "BER",
+        "response": "bit error rate"
+    },
+    {
+              "question" : "BFT",
+        "response": "Binary File Transfer"
+    },
+    {
+      
+        "question" : "BGI",
+        "response": "Binary Gateway Interface"
+    },
+    {
+      
+        "question" : "BGAN",
+        "response": "Broadband Global Area Network"
+    },
+    {
+      
+        "question" : "BGP",
+        "response": "Border Gateway Protocol"
+    },
+    {
+      
+        "question" : "BHLI",
+        "response": "Broadband High Layer Information"
+    },
+    {
+      
+        "question" : "BHO",
+        "response": "Browser Help Object"
+    },
+    {
+      
+        "question" : "BI",
+        "response": "BUsiness Intelligence"
+    },
+    {
+      
+        "question" : "BIA",
+        "response": "Business Impact Analysis"
+    },
+    {
+      
+        "question" : "BIBOP",
+        "response": "big bag of pages"
+    },
+    {
+      
+        "question" : "BIC",
+        "response": "bank identifier code"
+    },
+    {
+      
+        "question" : "BICI",
+        "response": "Broadband Inter-Carrier Interface"
+    },
+    {
+      
+        "question" : "BIDS",
+        "response": "Business Intelligence Development Studio"
+    },
+    {
+      
+        "question" : "BIOS",
+        "response": "Basic Input/Output System"
+    },
+    {
+      
+        "question" : "BIPS",
+        "response": "Bank Internet Payment System"
+    },
+    {
+      
+        "question" : "BIST",
+        "response": "built-in self test"
+    },
+    {
+      
+        "question" : "Bit",
+        "response": "Binary Digit"
+    },
+    {
+      
+        "question" : "BJT",
+        "response": "Bipolar Junction Transistor"
+    },
+    {
+      
+        "question" : "BLISS",
+        "response": "Broadband Local Integrated Services Solution"
+    },
+    {
+      
+        "question" : "BNI",
+        "response": "Broadband Network Interface"
+    },
+    {
+      
+        "question" : "BMP",
+        "response": "Bitmap"
+    },
+    {
+      
+        "question" : "BPA",
+        "response": "Business Process Automation"
+    },
+    {
+      
+        "question" : "bpi",
+        "response": "bits per inch"
+    },
+    {
+      
+        "question" : "BPL",
+        "response": "Broadband over Power Lines"
+    },
+    {
+      
+        "question" : "BPM",
+        "response": "Business Process Management"
+    },
+    {
+      
+        "question" : "bps",
+        "response": "Bits Per Second"
+    },
+    {
+      
+        "question" : "BPV",
+        "response": "BiPolor Violation"
+    },
+    {
+      
+        "question" : "BRA",
+        "response": "Basic Rate Access"
+    },
+    {
+      
+        "question" : "BRAN",
+        "response": "Broadband Radio Access Networks"
+    },
+    {
+      
+        "question" : "BRAS",
+        "response": "Broadband Remote Access Server "
+    },
+    {
+      
+        "question" : "BRE",
+        "response": "Business Rule Engines"
+    },
+    {
+      
+        "question" : "BRI",
+        "response": "Basic Rate Interface"
+    },
+    {
+      
+        "question" : "BSA",
+        "response": "Business Software Alliance "
+    },
+    {
+      
+        "question" : "BSC",
+        "response": "Binary Synchronous Communication"
+    },
+    {
+      
+        "question" : "BSE",
+        "response": "Basic Service Elements"
+    },
+    {
+      
+        "question" : "BSM",
+        "response": "Business Service Management"
+    },
+    {
+      
+        "question" : "BSP",
+        "response": "Board Support Package"
+    },
+    {
+      
+        "question" : "BSSID",
+        "response": "Basic Service Set Identifier"
+    },
+    {
+      
+        "question" : "BST",
+        "response": "Binary Search Tree"
+    },
+    {
+      
+        "question" : "BTAG",
+        "response": "Beginning Tag"
+    },
+    {
+      
+        "question" : "BTO",
+        "response": "Business Technology Optimization"
+    },
+    {
+      
+        "question" : "BTM",
+        "response": "Business Transaction Monitoring"
+    },
+    {
+      
+        "question" : "BTS",
+        "response": "Bits Per Second"
+    },
+    {
+      
+        "question" : "BTX",
+        "response": "Balanced Technology Extended"
+    },
+    {
+      
+        "question" : "BUS",
+        "response": "Broadcast and Unknown Server"
+    },
+    {
+      
+        "question" : "BVD",
+        "response": "Basic Virtual Disk"
+    },
+    {
+      
+        "question" : "CAD",
+        "response": "Computer-Aided Design"
+    },
+    {
+      
+        "question" : "C2A",
+        "response": "Click-to-Action"
+    },
+    {
+      
+        "question" : "CAL",
+        "response": "Client Access License"
+    },
+    {
+      
+        "question" : "CAMEL",
+        "response": "Customized Application for Mobile Networks Enhanced Logic"
+    },
+    {
+      
+        "question" : "CAN",
+        "response": "Campus Area Network"
+    },
+    {
+      
+        "question" : "CAPI",
+        "response": "Computer Assisted Personal Interviews"
+    },
+    {
+      
+        "question" : "CARE",
+        "response": "Customer Account Record Exchange"
+    },
+    {
+      
+        "question" : "CBN",
+        "response": "Common Bonding Network "
+    },
+    {
+      
+        "question" : "CBQ",
+        "response": "Class-Based Queuing"
+    },
+    {
+      
+        "question" : "CBT",
+        "response": "Computer Based Training"
+    },
+    {
+      
+        "question" : "CBWFQ",
+        "response": "Class-Based Weighted Fair Queueing"
+    },
+    {
+      
+        "question" : "Cc",
+        "response": "Carbon Copy"
+    },
+    {
+      
+        "question" : "CCC",
+        "response": "Clear Channel Capability"
+    },
+    {
+      
+        "question" : "CCD",
+        "response": "Charged Coupled Device"
+    },
+    {
+      
+        "question" : "CCIE",
+        "response": "Cisco Certified Internetwork Expert"
+    },
+    {
+      
+        "question" : "CCL",
+        "response": "Communication Control Language"
+    },
+    {
+      
+        "question" : "CCNA",
+        "response": "Cisco Certified Network Assocaite "
+    },
+    {
+      
+        "question" : "CCP",
+        "response": "Certified Computer Professionals"
+    },
+    {
+      
+        "question" : "CCTV",
+        "response": "Closed-Circuit Television"
+    },
+    {
+      
+        "question" : "CD",
+        "response": "Compact Disc"
+    },
+    {
+      
+        "question" : "CDB",
+        "response": "Capacity Database"
+    },
+
+{
+  
+"question" : "CDDI",
+"response": "Copper Distributed Data Interface"
+},
+
+
+{
+  
+"question" : "CDE",
+"response": "Common Desktop Environment"
+},
+
+
+{
+  
+"question" : "CD-R",
+"response": "Compact Disc Recordable"
+},
+
+
+{
+  
+"question" : "CD-ROM",
+"response": "Compact Disc Read Only Memory"
+},
+
+
+{
+  
+"question" : "CD-RW",
+"response": "Copact Disk Re-Writable"
+},
+
+
+{
+  
+"question" : "CDFS",
+"response": "Compact Disc File System"
+},
+
+
+{
+  
+"question" : "CDH",
+"response": "Customer Data Hub"
+},
+
+
+{
+  
+"question" : "CDI",
+"response": "Customer Data Integration"
+},
+
+
+{
+  
+"question" : "CDMA",
+"response": "Code division multiple access"
+},
+
+
+{
+  
+"question" : "CDN",
+"response": "Content Delivery Network"
+},
+
+
+{
+  
+"question" : "CDO",
+"response": "Care Delivery Organization"
+},
+
+
+{
+  
+"question" : "CDS",
+"response": "Correlated Double Sampling"
+},
+
+
+{
+  
+"question" : "CDV",
+"response": "Cell Delay Variation"
+},
+
+
+{
+  
+"question" : "CEA",
+"response": "Consumer Electronics Association"
+},
+
+
+{
+  
+"question" : "CEC",
+"response": "Consumer Electronics Control"
+},
+
+
+{
+  
+"question" : "CEF",
+"response": "Character Encoding Form"
+},
+
+
+{
+  
+"question" : "CEH",
+"response": "Certified Ethical Hacker "
+},
+
+
+{
+  
+"question" : "CEM",
+"response": "Customer Experience Management"
+},
+
+
+{
+  
+"question" : "CEMF",
+"response": "Cisco Element Management Framework"
+},
+
+
+{
+  
+"question" : "CER",
+"response": "Corporate Error Reporting"
+},
+
+
+{
+  
+"question" : "CF",
+"response": "Compact Flash"
+},
+
+
+{
+  
+"question" : "CG",
+"response": "Computer Graphics"
+},
+
+
+{
+  
+"question" : "CGA",
+"response": "Colour Graphics Adaptor"
+},
+
+
+{
+  
+"question" : "CGI",
+"response": "Common Gateway Interface"
+},
+
+
+{
+  
+"question" : "CGM",
+"response": "Consumer-generated media"
+},
+
+
+{
+  
+"question" : "Charset",
+"response": "character set"
+},
+
+
+{
+  
+"question" : "chat",
+"response": "Conversational Hypertext Access Technology"
+},
+
+
+{
+  
+"question" : "ChR",
+"response": "channel reliability"
+},
+
+
+{
+  
+"question" : "cHTML",
+"response": "Compact Hypertext Markup Language "
+},
+
+
+{
+  
+"question" : "CIA",
+"response": "Confidentiality,integrity,and availability"
+},
+
+
+{
+  
+"question" : "CICS",
+"response": "Customer Information Control System"
+},
+
+
+{
+  
+"question" : "CIDR",
+"response": "Classless Inter-Domain Routing"
+},
+
+
+{
+  
+"question" : "CIFS",
+"response": "Common Internet File System"
+},
+
+
+{
+  
+"question" : "CIK",
+"response": "crypto-ignition key"
+},
+
+
+{
+  
+"question" : "CIM",
+"response": "Computer Integrated Manufacturing"
+},
+
+
+{
+  
+"question" : "CISC",
+"response": "Complex Instruction Set Computing"
+},
+
+
+{
+  
+"question" : "CISO",
+"response": "chief information security officer"
+},
+
+
+{
+  
+"question" : "CIX",
+"response": "Commercial Internet Exchange"
+},
+
+
+{
+  
+"question" : "CLASS",
+"response": "Custom Local Area Signaling Services"
+},
+
+
+{
+  
+"question" : "CLEC",
+"response": "Competitive Local Exchange Carrier"
+},
+
+
+{
+  
+  "question" : "CMOS",
+"response": "Complementary Metal Oxide Semiconductor"
+},
+
+
+{
+  
+"question" : "CMYK",
+"response": "Cyan Magenta Yellow Black"
+},
+
+
+{
+  
+"question" : "CNA",
+"response": "Converged Network Adapter"
+},
+
+
+{
+  
+"question" : "CNAM",
+"response": "Caller ID With Name"
+},
+
+
+{
+  
+"question" : "CNE",
+"response": "Certified Novell/Network Engineer"
+},
+
+
+{
+  
+"question" : "CO",
+"response": "Central Office"
+},
+
+
+{
+  
+"question" : "CoA",
+"response": "Care of Address"
+},
+
+
+{
+  
+"question" : "coax",
+"response": "coaxial(cable)"
+},
+
+
+{
+  
+"question" : "COBIT",
+"response": "Control Objectives for Information and related Technologies"
+},
+
+
+{
+  
+"question" : "COIN",
+"response": "Community OF Interest Network"
+},
+
+
+{
+  
+"question" : "CORE",
+"response": "Compare Operational Readiness Evaluation"
+},
+
+
+{
+  
+"question" : "CORS",
+"response": "Continuously Operating Reference Station"
+},
+
+
+{
+  
+"question" : "COS",
+"response": "Cloud Optimized Storage"
+},
+
+
+{
+  
+"question" : "CPA",
+"response": "Cost Per Action"
+},
+
+
+{
+  
+"question" : "CPAN",
+"response": "Comprehensive Perl Archive Network"
+},
+
+
+{
+  
+"question" : "cPanel",
+"response": "control panel"
+},
+
+
+{
+  
+"question" : "CPE",
+"response": "customer premises equipment"
+},
+
+
+{
+  
+"question" : "CPF",
+"response": "Cloud Provisioning Fabric"
+},
+
+
+{
+  
+"question" : "cpi",
+"response": "characters per inch"
+},
+
+
+{
+  
+"question" : "CPLD",
+"response": "Complex Programmable Logic Device"
+},
+
+
+{
+  
+"question" : "CPM",
+"response": "Cost Per 1,000 Impressions"
+},
+
+
+{
+  
+"question" : "CPN",
+"response": "calling party number"
+},
+
+
+{
+  
+"question" : "CPNI",
+"response": "Customer Proprietary Network Information"
+},
+
+
+{
+  
+"question" : "CPOE",
+"response": "Computerized Provider Order Entry"
+},
+
+
+{
+  
+"question" : "CPRM",
+"response": "Content Protection for Removable Media"
+},
+
+
+{
+  
+"question" : "cps",
+"response": "Characters Per Second"
+},
+
+
+{
+  
+"question" : "CPS",
+"response": "Continuous Protection Server"
+},
+
+
+{
+  
+"question" : "CPU",
+"response": "Central Processing Unit"
+},
+
+
+{
+  
+"question" : "CRACK",
+"response": "Challenge/Response Authentication of Cryptographic Key"
+},
+
+
+{
+  
+"question" : "CRC",
+"response": "Cyclic Redundancy Check"
+},
+
+
+{
+  
+"question" : "CRL",
+"response": "certificate revocation list"
+},
+
+
+{
+  
+"question" : "CRLF",
+"response": "carriage return, line feed"
+},
+
+
+{
+  
+"question" : "CRM",
+"response": "Customer Relationship Management"
+},
+
+
+{
+  
+"question" : "CRMB",
+"response": "Customer Reference Material Database"
+},
+
+
+{
+  
+"question" : "cROI",
+"response": "companywide ROI"
+},
+
+
+{
+  
+"question" : "CRR",
+"response": "Continuous Remote Replication"
+},
+
+
+{
+  
+"question" : "CRT",
+"response": "Cathode Ray Tube"
+},
+
+
+{
+  
+"question" : "CRUD",
+"response": "Create, Read, Update, Delete"
+},
+
+
+{
+  
+"question" : "crypto",
+"response": "Cryptography"
+},
+
+
+{
+  
+"question" : "CSCF",
+"response": "call session control function"
+},
+
+
+{
+  
+"question" : "CSCW",
+"response": "computer supported co-operative work"
+},
+
+
+{
+  
+"question" : "CSD",
+"response": "Cisco Secure Desktop"
+},
+
+
+{
+
+"question" : "CSE",
+"response": "custom search engine"
+},
+
+
+{
+
+"question" : "Csel",
+"response": "Cable Select"
+},
+
+
+{
+
+"question" : "CSFs",
+"response": "critical success factors"
+},
+
+
+{
+
+"question" : "CSG",
+"response": "Communications Services Group"
+},
+
+
+{
+
+"question" : "CSMA/CA",
+"response": "Carrier Sense Multiple Access/Collision Avoidance"
+},
+
+
+{
+
+"question" : "CSMA/CD",
+"response": "Carrier Sense Multiple Access with Collision Detection"
+},
+
+
+{
+
+"question" : "CSO",
+"response": "Cold Start Only"
+},
+
+
+{
+
+"question" : "CSP",
+"response": "Communications service providers"
+},
+
+
+{
+
+"question" : "CSS",
+"response": "Cascading Style Sheet"
+},
+
+
+{
+
+"question" : "CSS-P",
+"response": "cascading style sheet positioning"
+},
+
+
+{
+
+"question" : "CST",
+"response": "Consolidated Service Test"
+},
+
+
+{
+
+"question" : "CSW",
+"response": "channel status word"
+},
+
+
+{
+
+"question" : "CTCp",
+"response": "Client-To-Client-Protoco"
+},
+
+
+{
+
+"question" : "CTD",
+"response": "Cell Transfer Delay"
+},
+
+
+{
+
+"question" : "CTI",
+"response": "computer-telephony integration"
+},
+
+
+{
+
+"question" : "CTO",
+"response": "chief technology officer"
+},
+
+
+{
+
+"question" : "CTP",
+"response": "capable to promise"
+},
+
+
+{
+
+"question" : "CTR",
+"response": "Click-Through Rate"
+},
+
+
+{
+
+"question" : "ctrl",
+"response": "control"
+},
+
+
+{
+
+"question" : "CTT",
+"response": "China Tietong Telecommunications"
+},
+
+
+{
+
+"question" : "CTX",
+"response": "Commited to Excellence"
+},
+
+
+{
+
+"question" : "CUDA",
+"response": "Compute Unified Device Architecture"
+},
+
+
+{
+
+"question" : "CUG",
+"response": "closed user group"
+},
+
+
+{
+
+"question" : "CUoD",
+"response": "Capacity Upgrade on Demand"
+},
+
+
+{
+
+"question" : "CUPS",
+"response": "Common Unix Printing System"
+},
+
+
+{
+
+"question" : "CVP",
+"response": "Content Vectoring Protocol"
+},
+
+
+{
+
+"question" : "CVSD",
+"response": "Continuous Variable Slope Delta modulation"
+},
+
+
+{
+
+"question" : "CYMK",
+"response": "cyan, magenta, yellow, black"
+},
+
+
+{
+
+"question" : "DAW",
+"response": "Digital Audio Workstation"
+},
+
+
+{
+
+"question" : "DBL",
+"response": "Dorby-Launch"
+},
+
+
+{
+
+"question" : "DBMS",
+"response": "Database Management System"
+},
+
+
+{
+
+"question" : "DP",
+"response": "Display Port"
+},
+
+
+{
+
+"question" : "DPCP",
+"response": "DisplayPort Content Protection"
+},
+
+
+{
+
+"question" : "DCIM",
+"response": "Digital Camera Images"
+},
+
+
+{
+
+"question" : "DDL",
+"response": "Data Definition Language"
+},
+
+
+{
+
+"question" : "DDR",
+"response": "Double Data Rate"
+},
+
+
+{
+
+"question" : "DFS",
+"response": "Distributed File System"
+},
+
+
+{
+
+"question" : "DFS",
+"response": "Dynamic Frequency Selection"
+},
+
+
+{
+
+"question" : "DHCP",
+"response": "Dynamic Host Configuration Protocol"
+},
+
+
+{
+
+"question" : "DIMM",
+"response": "Dual in-Line Memory module"
+},
+
+
+{
+
+"question" : "DKIM",
+"response": "DomainKeys Identified Mail"
+},
+
+
+{
+
+"question" : "DLC",
+"response": "Downloadable Content"
+},
+
+
+{
+
+"question" : "DMA",
+"response": "Direct Memory Access"
+},
+
+
+{
+
+"question" : "DNS",
+"response": "Domain Name System"
+},
+
+
+{
+
+"question" : "DOD",
+"response": "Department of Defense"
+},
+
+
+{
+
+"question" : "DOS",
+"response": "Disk Operating System"
+},
+
+
+{
+
+"question" : "DPI",
+"response": "Dot Per Inch"
+},
+
+
+{
+
+"question" : "DRAM",
+"response": "Dynamic Random Access Memory"
+},
+
+
+{
+
+"question" : "DRM",
+"response": "Digital Rights Management"
+},
+
+
+{
+
+"question" : "DSL",
+"response": "Digital Subscriber Line"
+},
+
+
+{
+
+"question" : "DSLAM",
+"response": "Digital Subscriber Line Access Multiplexer"
+},
+
+
+{
+
+"question" : "DSSS",
+"response": "Direct-Sequence Spread Spectrum"
+},
+
+
+{
+
+"question" : "DTD",
+"response": "Document Type Definition"
+},
+
+
+{
+
+"question" : "DV",
+"response": "Digital Video"
+},
+
+
+{
+
+"question" : "DVD",
+"response": "Digital Versatile Disc"
+},
+
+
+{
+
+"question" : "DVD + R",
+"response": "Digital Versatile Disc Recordable"
+},
+
+
+{
+
+"question" : "DVD + RW",
+"response": "Digital Versatile Disc Rewritable"
+},
+
+
+{
+
+"question" : "DVD-R",
+"response": "Digital Versatile Disc Recordable"
+},
+
+
+{
+
+"question" : "DVD-RAM",
+"response": "Digital Versatile Disc Random Access Memory"
+},
+
+
+{
+
+"question" : "DVI",
+"response": "Digital Video Interface"
+},
+
+
+{
+
+"question" : "DVR",
+"response": "Digital Video Recorder"
+},
+
+
+{
+
+"question" : "ECC",
+"response": "Error Correction Code"
+},
+
+
+{
+
+"question" : "ECM",
+"response": "Enterprise Content Management"
+},
+
+
+{
+
+"question" : "ECMA",
+"response": "European Computer Manufacturers Association"
+},
+
+
+{
+
+"question" : "ECMP",
+"response": "Equal Cost Multipath Routing"
+},
+
+
+{
+
+"question" : "ECS",
+"response": "Extended Character Set"
+},
+
+
+{
+
+"question" : "EDI",
+"response": "Electronic Data Interchange"
+},
+
+
+{
+
+"question" : "EDO",
+"response": "Extended Data Output"
+},
+
+
+{
+
+"question" : "EDS",
+"response": "Electronic Data Systems"
+},
+
+
+{
+
+"question" : "EEPROM",
+"response": "Electrical Erasable Programmable Read Only Memory"
+},
+
+
+{
+
+"question" : "EFI",
+"response": "Extensible Firmware Interface"
+},
+
+
+{
+
+"question" : "EGP",
+"response": "Exterior Gateway Protocol"
+},
+
+
+{
+
+"question" : "EHA",
+"response": "Ethernet Hardware Address"
+},
+
+
+{
+
+"question" : "ELAN",
+"response": "Emulated Local Area Network"
+},
+
+
+{
+
+"question" : "EMI",
+"response": "Electromagnetic Interferance"
+},
+
+
+{
+
+"question" : "EMR",
+"response": "Electronic Medical Record"
+},
+
+
+{
+
+"question" : "ENQ",
+"response": "Enquiry"
+},
+
+
+{
+
+"question" : "ENX",
+"response": "European Network Exchange"
+},
+
+
+{
+
+"question" : "EPM",
+"response": "Enterprise Performance Management"
+},
+
+
+{
+
+"question" : "EPROM",
+"response": "Erasable Programmable Read-Only Memory"
+},
+
+
+{
+
+"question" : "ESCD",
+"response": "Extended System Configuration Data"
+},
+
+
+{
+
+"question" : "ESM",
+"response": "Enterprise Service Management"
+},
+
+
+{
+
+"question" : "ESDI",
+"response": "Enhanced Small Device Interface"
+},
+
+
+{
+
+"question" : "eGPU",
+"response": "External Graphics Processing Unit"
+},
+
+
+{
+
+"question" : "eSATA",
+"response": "External Serial Advanced Technology Attachment"
+},
+
+
+{
+
+"question" : "EULA",
+"response": "End-User License Agreement"
+},
+
+
+{
+
+"question" : "EXIF",
+"response": "Exchangeable Image File Format"
+},
+
+
+{
+
+"question" : "FAQ",
+"response": "Frequently Asked Questions"
+},
+
+
+{
+
+"question" : "FDD",
+"response": "Floppy Disk Drive"
+},
+
+
+{
+
+"question" : "FDDI",
+"response": "Fiber Distributed Data Interface"
+},
+
+
+{
+
+"question" : "FHSS",
+"response": "Frequency-hoping Spread Spectrum"
+},
+
+
+{
+
+"question" : "FIFO",
+"response": "First in, First out"
+},
+
+
+{
+
+"question" : "Fios",
+"response": "Fiber Optic Service"
+},
+
+
+{
+
+"question" : "FTP",
+"response": "File Transfer Protocol"
+},
+
+
+{
+
+"question" : "FTTN",
+"response": "Fiber-to-the-Node"
+},
+
+
+{
+
+"question" : "Gbps",
+"response": "Gigabits per Second"
+},
+
+
+{
+
+"question" : "GDI",
+"response": "Graphics Device Interface"
+},
+
+
+{
+
+"question" : "GDSN",
+"response": "Global Data Synchronization Network"
+},
+
+
+{
+
+"question" : "GEAR",
+"response": "Gigabyte Enhanced Agp Riser"
+},
+
+
+{
+
+"question" : "GEO/GEOS",
+"response": "Geo-Stationary Earth Orbit System"
+},
+
+
+{
+
+"question" : "GIGO",
+"response": "garbage in, garbage out"
+},
+
+
+{
+
+"question" : "GIMP",
+"response": "GNU Image Manipulation Program"
+},
+
+
+{
+
+"question" : "GINA",
+"response": "Graphical Identification and Authentication"
+},
+
+
+{
+
+"question" : "GIX",
+"response": "Global Interchange Exchange"
+},
+
+
+{
+
+"question" : "GMRS",
+"response": "General Mobile Radio Service"
+},
+
+
+{
+
+"question" : "GMS",
+"response": "Global Messaging Service"
+},
+
+
+{
+
+"question" : "GMSK",
+"response": "Gaussian Minimum Shift Keying"
+},
+
+
+{
+
+"question" : "GNN",
+"response": "Global Network Navigator"
+},
+
+
+{
+
+"question" : "GPL",
+"response": "General Public License"
+},
+
+
+{
+
+"question" : "GPIO",
+"response": "General Purpose I/O"
+},
+
+
+{
+
+"question" : "GPRS",
+"response": "General Packet Radio Service"
+},
+
+
+{
+
+"question" : "GPS",
+"response": "Global Positioning System"
+},
+
+
+{
+
+"question" : "GPSL",
+"response": "General Purpose Scripting Language"
+},
+
+
+{
+
+"question" : "GPU",
+"response": "Graphics Processing Unit"
+},
+
+
+{
+
+"question" : "GSM",
+"response": "Global System for Mobile Communication"
+},
+
+
+{
+
+"question" : "GUI",
+"response": "Graphical User Interface"
+},
+
+
+{
+
+"question" : "GUID",
+"response": "Globally Unique Identifier"
+},
+
+
+{
+
+"question" : "HAN",
+"response": "Home Area Network"
+},
+
+
+{
+
+"question" : "HD",
+"response": "High Definition"
+},
+
+
+{
+
+"question" : "HDCP",
+"response": "High-bandwidth Digital Content Protection"
+},
+
+
+{
+
+"question" : "HDD",
+"response": "Hard Disk Drive"
+},
+
+
+{
+
+"question" : "HDMI",
+"response": "High-Definition Multimedia Interface"
+},
+
+
+{
+
+"question" : "HDR",
+"response": "High Dynamic Range"
+},
+
+
+{
+
+"question" : "HDSL",
+"response": "High bit-rate Digital Subscriber Line"
+},
+
+
+{
+
+"question" : "HDTV",
+"response": "High Definition Television"
+},
+
+
+{
+
+"question" : "HDV",
+"response": "High-Definition Video"
+},
+
+
+{
+
+"question" : "HFS",
+"response": "Hierarchical File System"
+},
+
+
+{
+
+"question" : "HSF",
+"response": "Heat Sink and Fan"
+},
+
+
+{
+
+"question" : "HTML",
+"response": "Hyper-Text markup language"
+},
+
+
+{
+
+"question" : "HTTPS",
+"response": "Hypertext Transfer Protocol Secure"
+},
+
+
+{
+
+"question" : "I/O",
+"response": "Input/Output"
+},
+
+
+{
+
+"question" : "ICANN",
+"response": "Internet Corporation For Assigned Names and Numbers"
+},
+
+
+{
+
+"question" : "ICCID",
+"response": "Integrated Circuit Card Identifier"
+},
+
+
+{
+
+"question" : "ICF",
+"response": "Internet Connection Firewall"
+},
+
+
+{
+
+"question" : "ICMP",
+"response": "Internet Control message Protoccol"
+},
+
+
+{
+
+"question" : "ICS",
+"response": "Internet Connection Sharing"
+},
+
+
+{
+
+"question" : "ICT",
+"response": "Information and Communication Technologies"
+},
+
+
+{
+
+"question" : "IDE",
+"response": "Integrated Device Electronics or Integrated Development Environment"
+},
+
+
+{
+
+"question" : "IEEE",
+"response": "Institute of Electrical and Electronics Engineers"
+},
+
+
+{
+
+"question" : "IGP",
+"response": "Integrated Graphics Processors"
+},
+
+
+{
+
+"question" : "IIS",
+"response": "Internet Information Services"
+},
+
+
+{
+
+"question" : "IM",
+"response": "Instant Message"
+},
+
+
+{
+
+"question" : "IMAP",
+"response": "Internet Message Access Protocol"
+},
+
+
+{
+
+"question" : "IMEI",
+"response": "Internet Mobile Equipment Identity"
+},
+
+
+{
+
+"question" : "InterNIC",
+"response": "Internet Network Information Center"
+},
+
+
+{
+
+"question" : "IOPS",
+"response": "Input/Output Operations Per Second"
+},
+
+
+{
+
+"question" : "IP",
+"response": "Internet Protocol"
+},
+
+
+{
+
+"question" : "IPC",
+"response": "Interprocess Communication"
+},
+
+
+{
+
+"question" : "IPS",
+"response": "In-Plane Switching"
+},
+
+
+{
+
+"question" : "IPS",
+"response": "Intrusion Prevension System"
+},
+
+
+{
+
+"question" : "IPX",
+"response": "Internetwork Packet Exchange"
+},
+
+
+{
+
+"question" : "IrDA",
+"response": "Infrared Data Association"
+},
+
+
+{
+
+"question" : "IRC",
+"response": "Internet Relay chat"
+},
+
+
+{
+
+"question" : "IRQ",
+"response": "Interrupt Request"
+},
+
+
+{
+
+"question" : "ISA",
+"response": "Industry Standard Architecture"
+},
+
+
+{
+
+"question" : "ISCSI",
+"response": "Internet Small Computer Systems Interface"
+},
+
+
+{
+
+"question" : "ISDN",
+"response": "Intergrated Services Digital Network"
+},
+
+
+{
+
+"question" : "ISO",
+"response": "International Organization for Standardization"
+},
+
+
+{
+
+"question" : "ISP",
+"response": "Internet Service Provider"
+},
+
+
+{
+
+"question" : "ISR",
+"response": "Interrupt Service Routine"
+},
+
+
+{
+
+"question" : "IT",
+"response": "Information Technology"
+},
+
+
+{
+
+"question" : "ITIL",
+"response": "Information Technology Infrastructure Library"
+},
+
+
+{
+
+"question" : "IVR",
+"response": "Interactive Voice Response"
+},
+
+
+{
+
+"question" : "JDBC",
+"response": "Java Database Connectivity"
+},
+
+
+{
+
+"question" : "JFS",
+"response": "Journaled File System"
+},
+
+
+{
+
+"question" : "JPEG",
+"response": "Joint Photographic Experts Group"
+},
+
+
+{
+
+"question" : "JRE",
+"response": "Java Routine Environment"
+},
+
+
+{
+
+"question" : "JS",
+"response": "JavaScript"
+},
+
+
+{
+
+"question" : "JSF",
+"response": "JavaServer Faces"
+},
+
+
+{
+
+"question" : "JSON",
+"response": "JavaScript Object Notation"
+},
+
+
+{
+
+"question" : "JSP",
+"response": "Java Server Page"
+},
+
+
+{
+
+"question" : "JVM",
+"response": "Java Virtual Machine"
+},
+
+
+{
+
+"question" : "Kbps",
+"response": "Kilobite Per Second"
+},
+
+
+{
+
+"question" : "KDE",
+"response": "K DEsktop Environment"
+},
+
+
+{
+
+"question" : "KVM Switch",
+"response": "Keyboard,Video, and Mouse Switch"
+},
+
+
+{
+
+"question" : "LAMP",
+"response": "Linux,Apache,MySQL,and PHP"
+},
+
+
+{
+
+"question" : "LAN",
+"response": "Local Area Network"
+},
+
+
+{
+
+"question" : "LCD",
+"response": "Liquid Crystal Display"
+},
+
+
+{
+
+"question" : "LDAP",
+"response": "Lightweight Directory Access Protocol"
+},
+
+
+{
+
+"question" : "LED",
+"response": "Light-Emitting Diode"
+},
+
+
+{
+
+"question" : "LFN",
+"response": "Long Filename"
+},
+
+
+{
+
+"question" : "LIFO",
+"response": "Last in,First out"
+},
+
+
+{
+
+"question" : "LPI",
+"response": "Lines Per Inch"
+},
+
+
+{
+
+"question" : "LTE",
+"response": "Long Term Evolution"
+},
+
+
+{
+
+"question" : "LUN",
+"response": "Logical Unit Number"
+},
+
+
+{
+
+"question" : "MAC Address",
+"response": "Media Access Control Address"
+},
+
+
+{
+
+"question" : "MAMP",
+"response": "Mac OS X Apache,MySQL,and PHP" },
+
+{
+},
+
+
+{
+  
+"question" : "MAN",
+"response": "Metropolitan Area Network"
+},
+
+
+{
+
+"question" : "MANET",
+"response": "Mobile Ad Hoc Network"
+},
+
+
+{
+
+"question" : "Mbps",
+"response": "Megabits Per Second"
+},
+
+
+{
+
+"question" : "MBR",
+"response": "Master Boot Record"
+},
+
+
+{
+
+"question" : "MCA",
+"response": "Micro Channel Architecture"
+},
+
+
+{
+
+"question" : "MDI",
+"response": "Medium Dependent Interface"
+},
+
+
+{
+
+"question" : "MDP",
+"response": "Mini DisplayPort"
+},
+
+
+{
+
+"question" : "MIDI",
+"response": "Musical Instrument Digital Interface"
+},
+
+
+{
+
+"question" : "MIPS",
+"response": "Million Instructions Per Second"
+},
+
+
+{
+
+"question" : "MIS",
+"response": "Management Information System"
+},
+
+
+{
+
+"question" : "MMS",
+"response": "Multimedia Messaging Service"
+},
+
+
+{
+
+"question" : "MODEM",
+"response": "modulator/demodulator"
+},
+
+
+{
+
+"question" : "MP3",
+"response": "MPEG-1 Audio layer-44"
+},
+
+
+{
+
+"question" : "MPEG",
+"response": "Moving Picture Experts Group"
+},
+
+
+{
+
+"question" : "MTU",
+"response": "Maximum Transmission Unit"
+},
+
+
+{
+
+"question" : "MVC",
+"response": "Model-View-Controller"
+},
+
+
+{
+
+"question" : "MX",
+"response": "Mail Exchange"
+},
+
+
+{
+
+"question" : "NAT",
+"response": "Network Address Translation"
+},
+
+
+{
+
+"question" : "NetBIOS",
+"response": "Network Basic Input/Output System"
+},
+
+
+{
+
+"question" : "NFC",
+"response": "Near Field Communication"
+},
+
+
+{
+
+"question" : "NFT",
+"response": "Non-Fungible Token"
+},
+
+
+{
+
+"question" : "NIC",
+"response": "Network Interface Card"
+},
+
+
+{
+
+"question" : "NLX",
+"response": "New Low-Profile Extended"
+},
+
+
+{
+
+"question" : "NMS",
+"response": "Network Management System"
+},
+
+
+{
+
+"question" : "NNTP",
+"response": "Network News Transfer Protocol"
+},
+
+
+{
+
+"question" : "NOC",
+"response": "Network Operations Center"
+},
+
+
+{
+
+"question" : "NOS",
+"response": "Network Operating System"
+},
+
+
+
+{
+
+"question" : "NPN",
+"response": "Negative Positive- Negative"
+},
+
+
+{
+  
+"question" : "NSP",
+"response": "Network Service Provider"
+},
+
+
+{
+
+"question" : "NTFS",
+"response": "New Technology File System"
+},
+
+
+{
+
+"question" : "NTP",
+"response": "Network Time Protocol"
+},
+
+
+{
+
+"question" : "NTSC",
+"response": "National Television System Committee"
+},
+
+
+{
+
+"question" : "NUI",
+"response": "Natural User Interface"
+},
+
+
+{
+
+"question" : "NVRAM",
+"response": "Non-Volatile Random Access Memory"
+},
+
+
+{
+
+"question" : "OASIS",
+"response": "Organisation for the Advancement of Structured Information Standards"
+},
+
+
+{
+
+"question" : "OCR",
+"response": "Optical Character Recognition"
+},
+
+
+{
+
+"question" : "ODBC",
+"response": "Open Database Connectivity"
+},
+
+
+{
+
+"question" : "OEM",
+"response": "Original Equipment Manufacturer"
+},
+
+
+{
+
+"question" : "OFDM",
+"response": "Orthogonal Frequency Division Multiplexing"
+},
+
+
+{
+
+"question" : "OLAP",
+"response": "Online Analytical Processing"
+},
+
+
+{
+
+"question" : "OLE",
+"response": "Object Linking and Embedding"
+},
+
+
+{
+
+"question" : "OLED",
+"response": "Organic Light Emmiting Diode"
+},
+
+
+{
+
+"question" : "OOP",
+"response": "Object-Oriented Programming"
+},
+
+
+{
+
+"question" : "OSPF",
+"response": "Open Shortest Path First"
+},
+
+
+{
+
+"question" : "OTA",
+"response": "Over-The-Air"
+},
+
+{
+
+"question" : "OTP",
+"response": "One Time Password"
+},
+
+{
+
+"question" : "PAN",
+"response": "Personal Area Network"
+},
+
+
+{
+
+"question" : "PAT",
+"response": "Port address Translation"
+},
+
+
+{
+
+"question" : "P2P",
+"response": "Peer-to-Peer"
+},
+
+
+{
+
+"question" : "PC",
+"response": "Personal Computer"
+},
+
+
+{
+
+"question" : "PCB",
+"response": "Printed Circuit Board"
+},
+
+
+{
+
+"question" : "PCI",
+"response": "Peripheral Component Interconnect"
+},
+
+
+{
+
+"question" : "PCI-X",
+"response": "Peripheral Component Interconnect Extended"
+},
+
+
+{
+
+"question" : "PCMCIA",
+"response": "Personal Computer Memory Card International Association"
+},
+
+
+{
+
+"question" : "PDA",
+"response": "Personal Digital Assistant"
+},
+
+
+{
+
+"question" : "PDF",
+"response": "Portable Document Format"
+},
+
+
+{
+
+"question" : "PDU",
+"response": "Protocol Data Unit"
+},
+
+
+{
+
+"question" : "PHP",
+"response": "Hypertext Preprocessor"
+},
+
+
+{
+
+"question" : "PIM",
+"response": "Personal Information Manager"
+},
+
+
+{
+
+"question" : "PMU",
+"response": "Power Management Unit"
+},
+
+
+{
+
+"question" : "PNG",
+"response": "Portable Network Graphic"
+},
+
+
+{
+
+"question" : "PoE",
+"response": "Power over Ethernet"
+},
+
+
+{
+
+"question" : "PON",
+"response": "Passive Optical Network"
+},
+
+
+{
+
+"question" : "POP3",
+"response": "Post Office Protocol"
+},
+
+
+{
+
+"question" : "POST",
+"response": "Power On Self Test"
+},
+
+
+{
+
+"question" : "POTS",
+"response": "Plain Old Telephone Service"
+},
+
+
+{
+
+"question" : "PPC",
+"response": "Pay Per Click"
+},
+
+
+{
+
+"question" : "PPGA",
+"response": "Plastic Pin Grid Array"
+},
+
+
+{
+
+"question" : "PPI",
+"response": "Pixels Per Inch"
+},
+
+
+{
+
+"question" : "PPP",
+"response": "Point-to-point Protocol"
+},
+
+
+{
+
+"question" : "PPPoE",
+"response": "Point-to-Point Protocol over Ethernet"
+},
+
+
+{
+
+"question" : "PPTP",
+"response": "Point-to-Point Tunneling Protocol"
+},
+
+
+{
+
+"question" : "PRAM",
+"response": "Parameter Random Access Memory"
+},
+
+
+{
+
+"question" : "PROM",
+"response": "Programmable Read Only Memory"
+},
+
+
+{
+
+"question" : "PS/2",
+"response": "Personal System/2"
+},
+
+
+{
+
+"question" : "PSTN",
+"response": "Public Switched Telephone Network"
+},
+
+
+{
+
+"question" : "PUP",
+"response": "Potentially Unwanted Program"
+},
+
+
+{
+
+"question" : "QBE",
+"response": "Query By Example"
+},
+
+
+{
+
+"question" : "QBDG",
+"response": "Query Based Distribution Group"
+},
+
+
+{
+
+"question" : "QBDL",
+"response": "Query Based Distribution List"
+},
+
+
+{
+
+"question" : "QCIF",
+"response": "Quarter Common Intermediate Format"
+},
+
+
+{
+
+"question" : "QD",
+"response": "Queuing Delay"
+},
+
+
+{
+
+"question" : "QDF",
+"response": "Quicken Data File"
+},
+
+
+{
+
+"question" : "QDOS",
+"response": "Quick And Dirty Operating System"
+},
+
+
+{
+
+"question" : "QDR",
+"response": "Quad Data Rate"
+},
+
+
+{
+
+"question" : "QEMM",
+"response": "Quarterdeck Expanded Memory Manage"
+},
+
+
+{
+
+"question" : "QFE",
+"response": "Quick Fix Engineering"
+},
+
+
+{
+
+"question" : "QFP",
+"response": "Quoted For Permanence"
+},
+
+
+{
+
+"question" : "QI",
+"response": "Query Interface "
+},
+
+
+{
+
+"question" : "qic",
+"response": "Quarter-Inch Cartridge "
+},
+
+
+{
+
+"question" : "QIF",
+"response": "Quicken Interchange Format"
+},
+
+
+{
+
+"question" : "QIP",
+"response": "quality improvement process"
+},
+
+
+{
+
+"question" : "QIX",
+"response": "NASDAQ Information Exchange protocol"
+},
+
+
+{
+
+"question" : "QLLC",
+"response": "Qualified Logical Link Control protocol"
+},
+
+
+{
+
+"question" : "QMF",
+"response": "Query Management Facility"
+},
+
+
+{
+
+"question" : "QMS",
+"response": "Quality Micro Systems"
+},
+
+
+{
+
+"question" : "QoE",
+"response": "quality of experience"
+},
+
+
+{
+
+"question" : "QR code",
+"response": "Quick Response code"
+},
+
+
+{
+
+"question" : "QSA",
+"response": "Qualified Security Assessor"
+},
+
+
+{
+
+"question" : "QSIG",
+"response": "Q signaling"
+},
+
+
+{
+
+"question" : "QTM",
+"response": "Quadratic Texture Mapping"
+},
+
+
+{
+
+"question" : "QTVR",
+"response": "QuickTime Virtual Reality"
+},
+
+
+{
+
+"question" : "RAID",
+"response": "Redundant Array of Independent Disks"
+},
+
+
+{
+
+"question" : "RAM",
+"response": "Random Access Memory"
+},
+
+
+{
+
+"question" : "RARP",
+"response": "Reverse Address Resolution Protocol"
+},
+
+
+{
+
+"question" : "RAS",
+"response": "Remote Access Service"
+},
+
+
+{
+
+"question" : "RCA",
+"response": "Radio Corporation of America"
+},
+
+
+{
+
+"question" : "RDBMS",
+"response": "Relational Database Management System"
+},
+
+
+{
+
+"question" : "RDF",
+"response": "Resource Description Framework"
+},
+
+
+{
+
+"question" : "RDP",
+"response": "Remote Desktop Protocol"
+},
+
+
+{
+
+"question" : "RDRAM",
+"response": "Rambus Dynamic Random Access Memory"
+},
+
+
+{
+
+"question" : "RFID",
+"response": "Radio-Frequency Identification"
+},
+
+
+{
+
+"question" : "RIM",
+"response": "Research In Motion"
+},
+
+
+{
+
+"question" : "RIP",
+"response": "Routing Information Protocol"
+},
+
+
+{
+
+"question" : "RISC",
+"response": "Reduced Instruction Set Computing"
+},
+
+
+{
+
+"question" : "RJ",
+"response": "Registered jack"
+},
+
+
+{
+
+"question" : "ROM",
+"response": "Read-Only Memory"
+},
+
+
+{
+
+"question" : "RPC",
+"response": "Remote Procedure Call"
+},
+
+
+{
+
+"question" : "RRAS",
+"response": "Routing and Remote Access Service"
+},
+
+
+{
+
+"question" : "SAN",
+"response": "Storage Area Network"
+},
+
+
+{
+
+"question" : "Sass",
+"response": "Synactically Awesome Style Sheets"
+},
+
+
+{
+
+"question" : "SATA",
+"response": "Serial Advanced Technology Attachment"
+},
+
+
+{
+
+"question" : "SCSI",
+"response": "Small Computer System Interface"
+},
+
+
+{
+
+"question" : "SD",
+"response": "Secure Digital"
+},
+
+
+{
+
+"question" : "SDK",
+"response": "Software Development Kit"
+},
+
+
+{
+
+"question" : "SDLC",
+"response": "System Development Lifecycle"
+},
+
+
+{
+
+"question" : "SDRAM",
+"response": "Synchronous Dynamic Random Access Memory"
+},
+
+
+{
+
+"question" : "SDS",
+"response": "Software-Defined Storage"
+},
+
+
+{
+
+"question" : "SDSL",
+"response": "Symmetric Digital Subscriber Line"
+},
+
+
+{
+
+"question" : "SEO",
+"response": "Search Engine Optimization"
+},
+
+
+{
+
+"question" : "SERP",
+"response": "Search Engine Results Page"
+},
+
+
+{
+
+"question" : "SIM Card",
+"response": "Subscriber Identification Module Card"
+},
+
+
+{
+
+"question" : "SIMM",
+"response": "Single in-Line Memory Module"
+},
+
+
+{
+
+"question" : "SIP",
+"response": "Session Initiation Protocol"
+},
+
+
+{
+
+"question" : "SLI",
+"response": "Scalable Link Interface"
+},
+
+
+{
+
+"question" : "SMART",
+"response": "Self-Monitoring Analysis And Reporting Technology"
+},
+
+
+{
+
+"question" : "SMB",
+"response": "Server Message Block"
+},
+
+
+{
+
+"question" : "SMM",
+"response": "Social Media Marketing"
+},
+
+
+{
+
+"question" : "SMS",
+"response": "Short Message Service"
+},
+
+
+{
+
+"question" : "SMTP",
+"response": "Simple Mail Transfer Protocol"
+},
+
+
+{
+
+"question" : "SNMP",
+"response": "Simple Network Management Protocol"
+},
+
+
+{
+
+"question" : "SO-DIMM",
+"response": "Small Outline Dual In-Line Memory Mobile"
+},
+
+
+{
+
+"question" : "SOA",
+"response": "Service Oriented Architecture"
+},
+
+
+{
+
+"question" : "SOAP",
+"response": "Simple Object Access Protocol"
+},
+
+
+{
+
+"question" : "SoC",
+"response": "System on a Chip"
+},
+
+
+{
+
+"question" : "SOHO",
+"response": "Small Office, Home Office"
+},
+
+
+{
+
+"question" : "SPX",
+"response": "Sequenced Packet Exchange"
+},
+
+
+{
+
+"question" : "SQL",
+"response": "Structured Query Language"
+},
+
+
+{
+
+"question" : "SRAM",
+"response": "Static Random Access Memory"
+},
+
+
+{
+
+"question" : "SRE",
+"response": "Site Reliability Engineering"
+},
+
+
+{
+
+"question" : "SSD",
+"response": "Solid State Drive"
+},
+
+
+{
+
+"question" : "SSH",
+"response": "Secure Shell"
+},
+
+
+{
+
+"question" : "SSID",
+"response": "Service Set Identifier"
+},
+
+
+{
+
+"question" : "SSL",
+"response": "Secure Sockets layer"
+},
+
+
+{
+
+"question" : "STP",
+"response": "Shielded Twisted Pair"
+},
+
+
+{
+
+"question" : "TCP/IP",
+"response": "Transmission Control Protocol/Internet Protocol"
+},
+
+
+{
+
+"question" : "TFT",
+"response": "Thin-Film Transistor"
+},
+
+
+{
+
+"question" : "TKIP",
+"response": "Temporary Key Integrity Protocol"
+},
+
+
+{
+
+"question" : "TLS",
+"response": "Transport Layer Security"
+},
+
+
+{
+
+"question" : "TN",
+"response": "Twisted Nematic"
+},
+
+
+{
+
+"question" : "TV",
+"response": "Television"
+},
+
+
+{
+
+"question" : "TWAIN",
+"response": "Toolkit Without An Informative Name"
+},
+
+
+{
+
+"question" : "UAT",
+"response": "User Acceptance Testing"
+},
+
+
+{
+
+"question" : "UDDI",
+"response": "Universal Description Discovery and Integration"
+},
+
+
+{
+
+"question" : "UDP",
+"response": "User Datagram Protocol"
+},
+
+
+{
+
+"question" : "UEFI",
+"response": "Unified Extensible Firmware Interface"
+},
+
+
+{
+
+"question" : "UGC",
+"response": "User Generated Content"
+},
+
+
+{
+
+"question" : "UICC",
+"response": "Universal Integrated Circuit Card"
+},
+
+
+{
+
+"question" : "UML",
+"response": "Unified Modeling"
+},
+
+
+{
+
+"question" : "UNC",
+"response": "Universal Naming Convention"
+},
+
+
+{
+
+"question" : "UPnP",
+"response": "Universal Plug and Play"
+},
+
+
+{
+
+"question" : "UPS",
+"response": "Uninterruptable Power Supply"
+},
+
+
+{
+
+"question" : "URL",
+"response": "Uniform Resource Locator"
+},
+
+
+{
+
+"question" : "USB",
+"response": "Universal Serial Bus"
+},
+
+
+{
+
+"question" : "UTF",
+"response": "Unicode Transformation Format"
+},
+
+
+{
+
+"question" : "UUID",
+"response": "Universally Unique Identifier"
+},
+
+
+{
+
+"question" : "UWP",
+"response": "Universal Windows Platform"
+},
+
+
+{
+
+"question" : "VCI",
+"response": "Virtual Channel Identifier"
+},
+
+
+{
+
+"question" : "VDSL",
+"response": "Very High Bit Rate Digital Subscriber Line"
+},
+
+
+{
+
+"question" : "VDU",
+"response": "Visual Display Unit"
+},
+
+
+{
+
+"question" : "VESA",
+"response": "Video Electronics Standards Association"
+},
+
+
+{
+
+"question" : "VFAT",
+"response": "Virtual File Allocation Table"
+},
+
+
+{
+
+"question" : "VGA",
+"response": "Video Graphics Array"
+},
+
+
+{
+
+"question" : "VIP",
+"response": "Virtual IP Address"
+},
+
+
+{
+
+"question" : "VLAN",
+"response": "Virtual Local Area Network"
+},
+
+
+{
+
+"question" : "VLE",
+"response": "Virtual Learning Environment"
+},
+
+
+{
+
+"question" : "VolP",
+"response": "Voice Over internet Protocol"
+},
+
+
+{
+
+"question" : "VPI",
+"response": "Virtual Path Identifier"
+},
+
+
+{
+
+"question" : "VPN",
+"response": "Virtual Private Network"
+},
+
+
+{
+
+"question" : "VPS",
+"response": "Virtual Private Server"
+},
+
+
+{
+
+"question" : "VRAM",
+"response": "Video Random Access Memory"
+},
+
+
+{
+
+"question" : "VRML",
+"response": "Virtual Reality Modeling Language"
+},
+
+
+{
+
+"question" : "W3C",
+"response": "World Wide Web Consortium"
+},
+
+
+{
+
+"question" : "WAIS",
+"response": "Wide Area Information Server"
+},
+
+
+{
+
+"question" : "WAMP",
+"response": "Windows,Apache,MySQL,and PHP"
+},
+
+
+{
+
+"question" : "WAN",
+"response": "Wide Area Network"
+},
+
+
+{
+
+"question" : "WDDM",
+"response": "Windows Display Driver Model"
+},
+
+
+{
+
+"question" : "WEBCAM",
+"response": "World Wide Web Camera"
+},
+
+
+{
+
+"question" : "WEP",
+"response": "Wired Equivalent Privacy"
+},
+
+
+{
+
+"question" : "WiFi",
+"response": "Wireless Fidelity"
+},
+
+
+{
+
+"question" : "WIMP",
+"response": "Windows,Icons,Menus,Pointer"
+},
+
+
+{
+
+"question" : "WINS",
+"response": "Windows Internet Name Service"
+},
+
+
+{
+
+"question" : "WLAN",
+"response": "Wireless Local Area Network"
+},
+
+
+{
+
+"question" : "WPA",
+"response": "Wi-Fi Protected Access"
+},
+
+
+{
+
+"question" : "WPA2",
+"response": "Wi-Fi Protected Access 2"
+},
+
+
+{
+
+"question" : "WWW",
+"response": "World Wide Web"
+},
+
+
+{
+
+"question" : "WYSIWYG",
+"response": "What You See Is What You Get"
+},
+
+
+{
+
+"question" : "XAML",
+"response": "Extensible Application Markup language"
+},
+
+
+{
+
+"question" : "XHTML",
+"response": "Extensible Hypertext Markup Language"
+},
+
+
+{
+
+"question" : "XML",
+"response": "Extensible markup Language"
+},
+
+
+{
+
+"question" : "XMP",
+"response": "Extensible Metadata Platform"
+},
+
+
+{
+
+"question" : "XSLT",
+"response": "Extensible Style Sheet language Transformation"
+},
+
+
+{
+
+"question" : "Y2K",
+"response": "Year 2000"
+},
+
+
+{
+
+"question" : "yacc",
+"response": "yet another compiler compiler"
+},
+
+
+{
+
+"question" : "YAST",
+"response": "Yet Another Setup Tool"
+},
+
+
+{
+
+"question" : "YB",
+"response": "Yottabyte"
+},
+
+
+{
+
+"question" : "YiB",
+"response": "Yobibyte"
+},
+
+
+{
+
+"question" : "YIM",
+"response": "Yahoo! Instant Messenger"
+},
+
+
+{
+
+"question" : "YKYBHTLW",
+"response": "you know you've been hacking too long when"
+},
+
+
+{
+
+"question" : "YPN",
+"response": "Yahoo Publishers Network"
+},
+
+
+{
+
+"question" : "YYYY-MM-DD",
+"response": "Year Year Year Year - Month Month - Day Day"
+},
+
+
+{
+
+"question" : "ZAPP",
+"response": "Zero Assignment Parallel Processor"
+},
+
+
+{
+
+"question" : "ZAW",
+"response": "Zero Administration Window"
+},
+
+
+{
+
+"question" : "ZB",
+"response": "Zettabyte"
+},
+
+
+{
+
+"question" : "ZBR",
+"response": "Zero Bug Release"
+},
+
+
+{
+
+"question" : "ZBTSI",
+"response": "Zero Byte Time Slot Interchange"
+},
+
+
+{
+
+"question" : "ZCS",
+"response": "zero code suppression"
+},
+
+
+{
+
+"question" : "ZCT",
+"response": "zero count table"
+},
+
+
+{
+
+"question" : "ZDL",
+"response": "Zero Delay Lockout"
+},
+
+
+{
+
+"question" : "ZDO",
+"response": "ZigBee Device Object"
+},
+
+
+{
+
+"question" : "ZFS",
+"response": "Zettabyte File System"
+},
+
+
+{
+
+"question" : "ZIF",
+"response": "Zero Insertion Force"
+},
+
+
+{
+
+"question" : "ZIL",
+"response": "Zork Implementation Language"
+},
+
+
+{
+
+"question" : "zine",
+"response": "electronic magazine"
+},
+
+
+{
+
+"question" : "ZINK",
+"response": "Zero INK"
+},
+
+
+{
+
+"question" : "ZIP",
+"response": "Zone Information Protocol"
+},
+
+
+{
+
+"question" : "ZLE",
+"response": "zero-latency enterprise"
+},
+
+
+{
+
+"question" : "ZMA",
+"response": "Zone Multicast Address"
+},
+
+
+{
+
+"question" : "ZNA",
+"response": "Zero Network Administration"
+},
+
+
+{
+
+"question" : "ZOPE",
+"response": "Z Object Publishing Environment"
+},
+
+
+{
+
+"question" : "ZTE",
+"response": "Zhong Xing Telecommunication Equipment"
+},
+
+
+{
+
+"question" : "ZTLP",
+"response": "Zero Transmission Level Point"
+},
+
+
+{
+
+"question" : "zsh",
+"response": "Z shell"
+},
+
+{
+
+"question" : "GBC",
+"response": "Ghana Broadcasting Corporation"
+},
+
+{
+
+"question" : "AI",
+"response": "Artificial Intelligent"
+},
+
+{
+
+"question" : "lol",
+"response": "laugh out loud"
+},
+
+
+
+{
+
+"question" : "😂",
+"response": "😊"
+},
+{
+
+"question" : "😥",
+"response": "😶"
+},
+{
+
+"question" : "🤣",
+"response": "😀"
+},
+{
+
+"question" : "😚",
+"response": "😚"
+},
+{
+
+"question" : "😋",
+"response": "😉"
+},
+{
+
+"question" : "🙄",
+"response": "😐"
+},
+{
+
+"question" : "😒",
+"response": "😏"
+},
+{
+
+"question" : "😡",
+"response": "😡"
+},
+{
+
+"question" : "❤",
+"response": "🤍"
+},
+{
+
+"question" : "😫",
+"response": "😎"
+},
+{
+
+"question" : "😍",
+"response": "🥰"
+},
+
+{
+
+"question" : "😗",
+"response": "😙"
+},
+
+{
+
+"question" : "😎",
+"response": "😎"
+},
+
+{
+
+"question" : "😎",
+"response": "😎"
+},
+
+
+{
+
+"question" : "😀",
+"response": "🙂"
+}
+
+]
