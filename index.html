@@ -16,11 +16,15 @@
         document.getElementById("preload").style.display="none";
         document.getElementById("main").style.display="block";
 
+  var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+
+document.getElementById("sm").innerHTML=time;
             },7000)
         }
     </script>
 <div class="preload" id="preload">
     <p>AI <span>Chat</span></p>
+
 <center>
     <hr>
 </center>
@@ -41,9 +45,22 @@
     <div id="doc">
         <div class="ai-message">
             <p style="color:white">Hi, ask me any question or type an abbreviation in capitals. I'm ready to answer. If you need help type "I need help".</p>
+<br>
+        <small id="sm" class="small"></small>
+        <br/>
         </div>
         <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
     </div>
+<br/>
+        <br/>
+        <br/>
 
 <br>
 <br>

@@ -1,5 +1,6 @@
 
 
+
 function imgUpload(){
     var input=document.getElementById("img");
     var dataurl=input.files[0];
@@ -25,6 +26,7 @@ function imgUpload(){
 <br/>
  <div class="ai-message">
             <p style="color:white">Nice picture</p>
+        <p style="color:white;position:absolute;right:20px">9:00</p>
         </div>
         <br/>
         <br/>
@@ -57,6 +59,10 @@ if(e.key ==="Enter"){
 
 function mySend(){
 
+
+  var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+
+
 if(userinput.value == "edit this picture" || userinput.value =="edit picture" || userinput.value == "edit"){
 setTimeout(()=>{
 
@@ -78,10 +84,13 @@ userinput.focus();
 
 doc.innerHTML += `
  <br/>
+ <br/>
  <div class="user-message">
             <p style="color:white">${usertext}</p>
-        </div>
+       <br/>
+  <small class="small">${time}</small>
         <br/>
+         </div>
         <br/>
         <br/>
         `
@@ -108,10 +117,17 @@ var path="ai.json";
             setTimeout(()=>{
                 doc.innerHTML += `
  <br/>
+ <br/>
  <div class="ai-message">
+
             <p style="color:white">${response}</p>
+        <br/>    
+  <small class="small">${time}</small>
+        <br/>
         </div>
         <br/>
+        <br/>
+    
         `
     },1000)
          
@@ -121,9 +137,16 @@ var path="ai.json";
             setTimeout(()=>{
                 doc.innerHTML += `
  <br/>
+ <br/>
+
  <div class="ai-message">
             <a href="tel:${nom}" style="color:white">${nom}</p>
+       <br/>    
+  <small class="small">${time}</small>
+        <br/>
         </div>
+        <br/>
+        <br/>
         <br/>
         `
     },1000)
