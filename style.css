@@ -6,6 +6,7 @@
 body{
 	background:#1a1a1a;
 	color: white;
+	scroll-behavior: smooth;
 }
 .header{
 	width: 100%;

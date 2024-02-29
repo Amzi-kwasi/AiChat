@@ -21,13 +21,20 @@ function imgUpload(){
         <br/>
     `
 
+  var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+
+var content=document.getElementsByClassName("img");
+for (var i = 0; i < content.length; i++) {
+    content[i].scrollIntoView();
+}
     setTimeout(()=>{
         doc.innerHTML+=`
 <br/>
  <div class="ai-message">
             <p style="color:white">Nice picture</p>
-        <p style="color:white;position:absolute;right:20px">9:00</p>
-        </div>
+        <small class="small">${time}</small>
+  <br>
+  </div>
         <br/>
         <br/>
 
@@ -58,6 +65,7 @@ if(e.key ==="Enter"){
 
 
 function mySend(){
+
 
 
   var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
@@ -96,6 +104,16 @@ doc.innerHTML += `
         `
 
 
+        var content=document.getElementsByClassName("user-message");
+for (var i = 0; i < content.length; i++) {
+    content[i].scrollIntoView();
+
+}
+
+
+ 
+
+
 var path="ai.json";
         
         fetch(path)
@@ -129,6 +147,7 @@ var path="ai.json";
         <br/>
     
         `
+
     },1000)
          
           if(response === "Number?"){

@@ -190,6 +190,18 @@
     },
     {
         
+        "question": "No",
+        "response": "Ok, I hear"
+    },
+    {
+        
+        "question": "Yes",
+        "response": "Ok"
+    },
+    
+    
+    {
+        
         "question": "Good night",
         "response": "Good night"
     },
@@ -5793,14 +5805,79 @@
 
 {
 
-"question" : "😎",
-"response": "😎"
+"question" : "😜",
+"response": "😝"
 },
 
 {
 
-"question" : "😎",
-"response": "😎"
+"question" : "🤗",
+"response": "🤗"
+},
+{
+
+"question" : "☺",
+"response": "🙂"
+},
+{
+
+"question" : "😏",
+"response": "🙄"
+},
+{
+
+"question" : "🤐",
+"response": "🤐"
+},
+{
+
+"question" : "🥱",
+"response": "😴"
+},
+{
+
+"question" : "🤑",
+"response": "🤑"
+},
+{
+
+"question" : "🤤",
+"response": "😙"
+},
+{
+
+"question" : "😓",
+"response": "😌"
+},
+{
+
+"question" : "😭",
+"response": "😢"
+},
+{
+
+"question" : "😰",
+"response": "😨"
+},
+{
+
+"question" : "😷",
+"response": "🤧"
+},
+{
+
+"question" : "😤",
+"response": "🙃"
+},
+{
+
+"question" : "🙃",
+"response": "😏"
+},
+{
+
+"question" : "🤠",
+"response": "🤡"
 },
 
 
