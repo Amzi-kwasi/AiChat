@@ -31,7 +31,7 @@ for (var i = 0; i < content.length; i++) {
         doc.innerHTML+=`
 <br/>
  <div class="ai-message">
-            <p style="color:white">Nice picture</p>
+            <p>Nice picture</p>
         <small class="small">${time}</small>
   <br>
   </div>
@@ -93,8 +93,9 @@ userinput.focus();
 doc.innerHTML += `
  <br/>
  <br/>
+  <br/>
  <div class="user-message">
-            <p style="color:white">${usertext}</p>
+            <p>${usertext}</p>
        <br/>
   <small class="small">${time}</small>
         <br/>
@@ -123,7 +124,7 @@ var path="ai.json";
 
         function appendData(data) {
             var doc=document.getElementById("doc");
-
+ 
 
                 for (var i = 0; i < data.length; i++) {
                 
@@ -136,9 +137,10 @@ var path="ai.json";
                 doc.innerHTML += `
  <br/>
  <br/>
+  <br/>
  <div class="ai-message">
 
-            <p style="color:white">${response}</p>
+            <p>${response}</p>
         <br/>    
   <small class="small">${time}</small>
         <br/>
@@ -147,9 +149,17 @@ var path="ai.json";
         <br/>
     
         `
+             var aicontent=document.getElementsByClassName("ai-message");
+for (var i = 0; i < aicontent.length; i++) {
+    aicontent[i].scrollIntoView();
 
+}
+ 
     },1000)
          
+
+         
+
           if(response === "Number?"){
             var nom =prompt("Enter number");
           
@@ -159,7 +169,7 @@ var path="ai.json";
  <br/>
 
  <div class="ai-message">
-            <a href="tel:${nom}" style="color:white">${nom}</p>
+            <a href="tel:${nom}" style="color:blue">${nom}</p>
        <br/>    
   <small class="small">${time}</small>
         <br/>
@@ -186,19 +196,7 @@ var path="ai.json";
 
 
 
- //          if(usertext === data[i].abbreviation){
- //           var meaning=data[i].mean;
 
- //            setTimeout(()=>{
- //                doc.innerHTML += `
- // <br/>
- // <div class="ai-message">
- //            <p style="color:white">${meaning}</p>
- //        </div>
- //        <br/>
- //        `
- //    },1000)   
- //          }  
 
 
         }

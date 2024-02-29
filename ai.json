@@ -7,8 +7,19 @@
     {
         
         "question": "Thank you",
-        "response": "Thank you for writing to me"
+        "response": "You are welcome"
     },
+    {
+        
+        "question": "Can you fight?",
+        "response": "No."
+    },
+    {
+        
+        "question": "You are a fool",
+        "response": "Of course."
+    },
+    
     {
 
 "question" : "Let's play",

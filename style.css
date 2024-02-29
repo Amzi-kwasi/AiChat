@@ -4,15 +4,16 @@
 }
 
 body{
-	background:#1a1a1a;
-	color: white;
 	scroll-behavior: smooth;
+	background: whitesmoke;
 }
 .header{
 	width: 100%;
-	padding: 10px 12px;
-	background: burlywood;
-	color: white;
+	padding: 20px 10px;
+	background: black;
+	color: gold;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
 	position: fixed;
 	top: 0;
 	z-index: 99;
@@ -23,20 +24,21 @@ body{
 	width: 45%;
 	border-radius: 10px;
 	padding: 10px 12px;
-	background: teal;
+	background: white;
+	color: black;
 position: absolute;
 left: 10px;
-
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
 
 .small{
-	color:whitesmoke;
+	color:grey;
 	right:20px;
 	position: absolute;
 }
 
 .ai-message p{
-	color: white;
+	color: black;
 }
 
 .userinput{
@@ -44,13 +46,14 @@ left: 10px;
 	width: 100%;
 	bottom: 1px;
 	display: flex;
+	margin-bottom: 10px;
 }
 
 .userinput input{
 	width: 90%;
 	padding: 10px 12px;
 	border-radius: 5px;
-	background: whitesmoke;
+	background: white;
 }
 .imgU{
 	display: none;
@@ -94,7 +97,6 @@ hr{
 	width: 100px;
 	text-align: center;
 	height: 3px;
-	color: white;
 	background-color: goldenrod;
 animation-name: hr;
 opacity: 0;
@@ -127,29 +129,15 @@ span{
 		opacity: 0.5;
 		left: 0;
 		position: absolute;
-		transform: rotate(90deg);
-	}
-	50%{
-		left: 35%;
-		position: absolute;
-		opacity: 0.9;
-
-		transform: rotate(90deg);
-	}
-	70%{
-		opacity: 1;
-
-		transform: rotate(0deg);
 	}
 	100%{
 		opacity: 1;
-		transform: rotate(0deg);
 		}
 }
 
 label{
 	padding: 10px;
-	background: whitesmoke;
+	background: white;
 	color: black;
 	cursor: pointer;
 }
@@ -170,13 +158,15 @@ label{
 	width: 45%;
 	border-radius: 10px;
 	padding: 10px 12px;
-	background: coral;
+	background: #d5ffcc;
+	color: black;
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 position: absolute;
 right: 10px;
 }
 
 .user-message p{
-	color: white;
+	color: black;
 }
 
 

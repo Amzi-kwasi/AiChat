@@ -19,7 +19,7 @@
   var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
 
 document.getElementById("sm").innerHTML=time;
-            },7000)
+            },5000)
         }
     </script>
 <div class="preload" id="preload">
@@ -33,18 +33,29 @@ document.getElementById("sm").innerHTML=time;
 
 <div class="main" id="main">
         <div class="header">
-            <center>
-                <a>AI Chat</a>
-                <a href="help.html" style="position: absolute;right: 50px;">Help</a>
-            </center>
-        </div>
+            
+                <a style="color:gold;font-size:30px;font-family: fantasy;">AI <span style="font-size: 20px;">Chat</span></a>
+                <a href="help.html" style="position: absolute;right: 50px;color: white;">Help</a>
+            </div>
         <br>
         <br>
         <br>
+        <br>
+      <br>
 
+<center>
+<div style="padding: 10px 12px;border-radius: 20px;background: coral;margin-left: 20%;margin-right: 20%;">
+    
+    <small>Messages are end-to-end encrypted. No one outside of this chat can read them. Feel free to ask questions.</small>    
+    
+</div>
+ </center>
+
+<br>
+<br>
     <div id="doc">
         <div class="ai-message">
-            <p style="color:white">Hi, ask me any question or type an abbreviation in capitals. I'm ready to answer. If you need help type "I need help".</p>
+            <p>Hi, ask me any question or type an abbreviation in capitals. I'm ready to answer. If you need help type "I need help".</p>
 <br>
         <small id="sm" class="small"></small>
         <br/>
