@@ -3,17 +3,22 @@
 	border: 0;
 }
 
+.body{
+	scroll-behavior: smooth;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
 body{
 	scroll-behavior: smooth;
 	background: whitesmoke;
 }
 .header{
 	width: 100%;
-	padding: 20px 10px;
+	padding: 8px 10px;
 	background: black;
 	color: gold;
-	border-bottom-left-radius: 20px;
-	border-bottom-right-radius: 20px;
 	position: fixed;
 	top: 0;
 	z-index: 99;
@@ -23,11 +28,10 @@ body{
 .ai-message{
 	width: 45%;
 	border-radius: 10px;
-	padding: 10px 12px;
+	padding: 8px 12px;
 	background: white;
 	color: black;
-position: absolute;
-left: 10px;
+   margin-left: 10px;
     box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
 
@@ -37,6 +41,10 @@ left: 10px;
 	position: absolute;
 }
 
+.smally{
+	color:grey;
+	}
+
 .ai-message p{
 	color: black;
 }
@@ -44,9 +52,8 @@ left: 10px;
 .userinput{
 	position: fixed;
 	width: 100%;
-	bottom: 1px;
+	bottom: 0;
 	display: flex;
-	margin-bottom: 10px;
 }
 
 .userinput input{
@@ -157,14 +164,20 @@ label{
 .user-message{
 	width: 45%;
 	border-radius: 10px;
-	padding: 10px 12px;
+	padding: 8px 10px;
 	background: #d5ffcc;
 	color: black;
     box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
-position: absolute;
-right: 10px;
+    right: 10px;
+    position: absolute;
 }
 
+
+#doc{
+	padding-bottom: 90px;
+	display: block;
+	position: relative;
+}
 .user-message p{
 	color: black;
 }

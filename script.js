@@ -1,6 +1,5 @@
 
 
-
 function imgUpload(){
     var input=document.getElementById("img");
     var dataurl=input.files[0];
@@ -9,16 +8,16 @@ function imgUpload(){
  fr.addEventListener("load",()=>{
     var url=fr.result;
     doc.innerHTML+=`
-    <br/>
+    <br>
  <div>
  <img class="img" src=${url} />
         </div>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
     `
 
   var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
@@ -29,15 +28,15 @@ for (var i = 0; i < content.length; i++) {
 }
     setTimeout(()=>{
         doc.innerHTML+=`
-<br/>
+        
+        <br>
  <div class="ai-message">
             <p>Nice picture</p>
-        <small class="small">${time}</small>
+        <small class="smally">${time}</small>
   <br>
   </div>
-        <br/>
-        <br/>
-
+       
+        <br>
         `
     },1300);
 
@@ -91,17 +90,18 @@ var doc=document.getElementById("doc");
 userinput.focus();
 
 doc.innerHTML += `
- <br/>
- <br/>
-  <br/>
+        <br>
+    
  <div class="user-message">
             <p>${usertext}</p>
-       <br/>
+       <br>
   <small class="small">${time}</small>
-        <br/>
+        <br>
          </div>
-        <br/>
-        <br/>
+
+        <br>        
+        <br>
+        <br>
         `
 
 
@@ -135,19 +135,15 @@ var path="ai.json";
 
             setTimeout(()=>{
                 doc.innerHTML += `
- <br/>
- <br/>
-  <br/>
+                <br>
+                <br>
  <div class="ai-message">
 
             <p>${response}</p>
-        <br/>    
-  <small class="small">${time}</small>
-        <br/>
+        <br>    
+  <small class="smally">${time}</small>
+        <br>
         </div>
-        <br/>
-        <br/>
-    
         `
              var aicontent=document.getElementsByClassName("ai-message");
 for (var i = 0; i < aicontent.length; i++) {
@@ -165,18 +161,19 @@ for (var i = 0; i < aicontent.length; i++) {
           
             setTimeout(()=>{
                 doc.innerHTML += `
- <br/>
- <br/>
-
+ 
+        <br>
+        <br>
  <div class="ai-message">
             <a href="tel:${nom}" style="color:blue">${nom}</p>
-       <br/>    
-  <small class="small">${time}</small>
-        <br/>
+       <br>    
+  <small class="smally">${time}</small>
+        <br>
         </div>
-        <br/>
-        <br/>
-        <br/>
+        
+        
+        <br>
+        <br>
         `
     },1000)
 }   

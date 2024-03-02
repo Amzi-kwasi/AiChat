@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>AI Chat</title>
 </head>
-<body onload="Pre()">
+<body class="body" onload="Pre()" id="body">
     <script type="text/javascript">
         function Pre(){
             document.getElementById("main").style.display="none"
@@ -19,6 +19,16 @@
   var time = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
 
 document.getElementById("sm").innerHTML=time;
+
+ var body=document.getElementById("body");
+
+ body.style.background=localStorage.getItem("locbg");
+  body.style.backgroundAttachment="fixed";
+    body.style.backgroundRepeat="no-repeat";
+    body.style.backgroundPosition="center";
+    body.style.backgroundSize="cover";
+
+
             },5000)
         }
     </script>
@@ -33,8 +43,55 @@ document.getElementById("sm").innerHTML=time;
 
 <div class="main" id="main">
         <div class="header">
-            
-                <a style="color:gold;font-size:30px;font-family: fantasy;">AI <span style="font-size: 20px;">Chat</span></a>
+                <a style="color:gold;font-size:25px;font-family: fantasy;">AI <span style="font-size: 15px;">Chat</span></a>
+
+<select id="select" style="position: absolute;right: 120px;overflow: scroll;background: black;color: white;" onchange="Backgd()">
+    <option value="./img/bg.jpg">Bg</option>
+    <option value="./img/bg1.jpg">Bg1</option>
+    <option value="./img/bg2.jpg">Bg2</option>
+    <option value="./img/bg3.jpg">Bg3</option>
+    <option value="./img/bg4.jpeg">Bg4</option>
+    <option value="./img/bg5.jpeg">Bg5</option>
+    <option value="./img/bg6.jpeg">Bg6</option>
+    <option value="./img/bg7.jpg">Bg7</option>
+    <option value="./img/bg8.jpg">Bg8</option>
+    <option value="./img/bg9.jpg">Bg9</option>
+   <option value="./img/bg10.jpg">Bg10</option>
+   <option value="./img/bg11.jpg">Bg11</option>
+   <option value="./img/bg12.jpg">Bg12</option>
+   <option value="./img/bg13.jpg">Bg13</option>
+   <option value="./img/bg14.jpg">Bg14</option>
+   <option value="./img/bg15.jpg">Bg15</option>
+   <option value="./img/bg16.jpg">Bg16</option>
+   <option value="./img/bg17.jpg">Bg17</option>
+   <option value="./img/bg18.jpg">Bg18</option>
+   <option value="./img/bg19.jpg">Bg19</option>
+    <option value="./img/bg20.jpg">Bg20</option>
+   <option value="./img/bg21.jpg">Bg21</option>
+   <option value="./img/bg22.jpg">Bg22</option>
+   <option value="./img/bg23.jpg">Bg23</option>
+  
+</select>
+
+<script type="text/javascript">
+function Backgd(){
+    var select=document.getElementById("select").value;
+
+    var body=document.getElementById("body");
+
+    var locbody=body.style.background="url("+select+")";
+    body.style.backgroundAttachment="fixed";
+    body.style.backgroundRepeat="no-repeat";
+    body.style.backgroundPosition="center";
+    body.style.backgroundSize="cover";
+
+    localStorage.setItem("locbg", locbody);
+}
+    
+</script>
+
+
+
                 <a href="help.html" style="position: absolute;right: 50px;color: white;">Help</a>
             </div>
         <br>
@@ -44,12 +101,13 @@ document.getElementById("sm").innerHTML=time;
       <br>
 
 <center>
-<div style="padding: 10px 12px;border-radius: 20px;background: coral;margin-left: 20%;margin-right: 20%;">
+<div style="padding: 10px 12px;border-radius: 20px;background: #ffd5ad;margin-left: 20%;margin-right: 20%;">
     
     <small>Messages are end-to-end encrypted. No one outside of this chat can read them. Feel free to ask questions.</small>    
     
 </div>
  </center>
+
 
 <br>
 <br>
@@ -57,15 +115,9 @@ document.getElementById("sm").innerHTML=time;
         <div class="ai-message">
             <p>Hi, ask me any question or type an abbreviation in capitals. I'm ready to answer. If you need help type "I need help".</p>
 <br>
-        <small id="sm" class="small"></small>
+        <small id="sm" class="smally"></small>
         <br/>
         </div>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <br/>
         <br/>
     </div>
