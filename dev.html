@@ -18,17 +18,18 @@
 <body>
 <div>
 	<h5 style="color:orange;font-size: 20px;">Generate Data</h5>
-  <form onsubmit="GenerateAi()">
-    <input placeholder="Question..." id="ai_q"/>
-    <input placeholder="Response" id="ai_r"/>
-    <button type="submit">Submit</button>
+  <form onsubmit="generateAir()">
+    <input placeholder="Question..." id="ai_q" required/>
+    <input placeholder="Response" id="ai_r" required/>
+	  <br>
+    <button type="submit" style="padding:10px 12px; background:skyblue;">Submit</button>
   </form>
 </div>
 
 
 <script type="text/javascript">
 
-function GenerateAi(e){	
+function generateAir(e){	
 e.preventDefault();
 	
 
