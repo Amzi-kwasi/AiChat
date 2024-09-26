@@ -31,7 +31,7 @@ for (var i = 0; i < content.length; i++) {
         
         <br>
  <div class="ai-message">
-            <p>Nice picture</p>
+            <p>Wow, this is ok</p>
         <small class="smally">${time}</small>
   <br>
   </div>
@@ -115,7 +115,7 @@ for (var i = 0; i < content.length; i++) {
  
 
 
-var path="ai.json";
+var path="https://ambiguous-humane-begonia.glitch.me/ai";
         
         fetch(path)
         .then(res => res.json())
