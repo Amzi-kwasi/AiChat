@@ -115,7 +115,7 @@ for (var i = 0; i < content.length; i++) {
  
 
 
-var path="https://ambiguous-humane-begonia.glitch.me/ai";
+var path="https://ambiguous-humane-begonia.glitch.me/aifetch";
         
         fetch(path)
         .then(res => res.json())
