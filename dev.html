@@ -37,7 +37,7 @@ function Aisend(event) {
   var aiq = document.getElementById("ai_q").value;
   var air = document.getElementById("ai_r").value;
 
-  fetch("https://ambiguous-humane-begonia.glitch.me/ai", {
+  fetch("https://ambiguous-humane-begonia.glitch.me/aifetch", {
     method: "POST",
     body: JSON.stringify({
       "question": aiq,
